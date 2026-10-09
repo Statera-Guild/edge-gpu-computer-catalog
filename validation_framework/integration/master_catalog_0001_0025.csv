@@ -1,0 +1,26 @@
+﻿component_id,manufacturer,product_name,wave,card_path,record_status,record_scope_review,identity_review,evidence_review,integration_note
+CMP-EGC-0001,Advantech,MIC-733-AO,1,component_cards/CMP-EGC-0001.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0002,Advantech,MIC-711-OX,1,component_cards/CMP-EGC-0002.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0003,AAEON,BOXER-8641AI,1,component_cards/CMP-EGC-0003.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0004,AAEON,BOXER-8641AI-PLUS,1,component_cards/CMP-EGC-0004.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0005,AAEON,BOXER-8653AI,1,component_cards/CMP-EGC-0005.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0006,ADLINK,DLAP-411-Orin,1,component_cards/CMP-EGC-0006.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0007,ADLINK,DLAP-411-Orin Supreme,1,component_cards/CMP-EGC-0007.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0008,ADLINK,DLAP-211-Orin Series,1,component_cards/CMP-EGC-0008.md,listed,needs SKU verification,pending,pending,Review series vs orderable SKU
+CMP-EGC-0009,ADLINK,DLAP-211-Orin NX 16GB,1,component_cards/CMP-EGC-0009.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0010,Advantech,MIC-736,1,component_cards/CMP-EGC-0010.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0011,Neousys Technology,Nuvo-10108GC,2,component_cards/CMP-EGC-0011.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0012,Neousys Technology,Nuvo-9166GC Series,2,component_cards/CMP-EGC-0012.md,listed,needs SKU verification,pending,pending,Review series vs orderable SKU
+CMP-EGC-0013,Neousys Technology,Nuvo-8240GC,2,component_cards/CMP-EGC-0013.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0014,Neousys Technology,NRU-230V-AWP,2,component_cards/CMP-EGC-0014.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0015,Neousys Technology,NRU-162S-AWP,2,component_cards/CMP-EGC-0015.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0016,Neousys Technology,Nuvo-10208GC,3,component_cards/CMP-EGC-0016.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0017,ASUS IoT,PE8000G,3,component_cards/CMP-EGC-0017.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0018,ASUS IoT,PE6000G,3,component_cards/CMP-EGC-0018.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0019,ASUS IoT,RUC-1000G,3,component_cards/CMP-EGC-0019.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0020,ASUS IoT,EBS-4U1000,3,component_cards/CMP-EGC-0020.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0021,ADLINK,DLAP-8100 Series,4,component_cards/CMP-EGC-0021.md,listed,needs SKU verification,pending,pending,Review series vs orderable SKU
+CMP-EGC-0022,ADLINK,DLAP-5200 Series,4,component_cards/CMP-EGC-0022.md,listed,needs SKU verification,pending,pending,Review series vs orderable SKU
+CMP-EGC-0023,ADLINK,DLAP-8000 Series,4,component_cards/CMP-EGC-0023.md,listed,needs SKU verification,pending,pending,Review series vs orderable SKU
+CMP-EGC-0024,ADLINK,DLAP-4000 Series,4,component_cards/CMP-EGC-0024.md,listed,needs SKU verification,pending,pending,Review series vs orderable SKU
+CMP-EGC-0025,Advantech,MIC-770 V3 + MIC-75G20,4,component_cards/CMP-EGC-0025.md,listed,configuration,pending,pending,"Review host + expansion compatibility; composite configuration, not one SKU"

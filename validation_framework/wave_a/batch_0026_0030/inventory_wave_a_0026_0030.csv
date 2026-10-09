@@ -1,0 +1,6 @@
+component_id,manufacturer,product_name,status,record_scope,card_path,platform,source_type,official_source
+CMP-EGC-0026,AAEON,BOXER-8642AI,listed,family,component_cards/CMP-EGC-0026.md,Jetson AGX Orin,manufacturer_announcement,https://www.aaeon.com/en/news/detail/boxer_8642_news
+CMP-EGC-0027,AAEON,BOXER-8740AI,listed,family,component_cards/CMP-EGC-0027.md,Jetson Thor T5000,manufacturer_product_page_preliminary,https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8740ai
+CMP-EGC-0028,AAEON,BOXER-8741AI,listed,family,component_cards/CMP-EGC-0028.md,Jetson Thor T5000,manufacturer_specification_page,https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8741ai/specification
+CMP-EGC-0029,AAEON,BOXER-6845-BTL,listed,family,component_cards/CMP-EGC-0029.md,Intel Core Series 2,manufacturer_announcement,https://www.aaeon.com/cn/news/detail/boxer-6845-btl_product_announcement
+CMP-EGC-0030,AAEON,BOXER-8653AI-PLUS,listed,family,component_cards/CMP-EGC-0030.md,Jetson Orin NX,manufacturer_announcement,https://www.aaeon.com/en/news/detail/boxer-8653ai-plus_news

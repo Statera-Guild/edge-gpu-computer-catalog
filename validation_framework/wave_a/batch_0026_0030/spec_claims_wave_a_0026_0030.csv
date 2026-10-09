@@ -1,0 +1,11 @@
+claim_id,component_id,attribute,value,source_id,evidence_state,scope,notes
+CMP-EGC-0026-CLM-001,CMP-EGC-0026,platform,Jetson AGX Orin,EGC-SRC-0026,manufacturer_claim,family,requires exact SKU validation
+CMP-EGC-0026-CLM-002,CMP-EGC-0026,headline,32GB/64GB module options; eight independent 10Gbps USB; 12–24V DC,EGC-SRC-0026,manufacturer_claim,family,do not infer installed GPU or measured performance
+CMP-EGC-0027-CLM-001,CMP-EGC-0027,platform,Jetson Thor T5000,EGC-SRC-0027,manufacturer_claim,family,requires exact SKU validation
+CMP-EGC-0027-CLM-002,CMP-EGC-0027,headline,Jetson Thor T5000-based compact edge AI box; preliminary product page,EGC-SRC-0027,manufacturer_claim,family,do not infer installed GPU or measured performance
+CMP-EGC-0028-CLM-001,CMP-EGC-0028,platform,Jetson Thor T5000,EGC-SRC-0028,manufacturer_claim,family,requires exact SKU validation
+CMP-EGC-0028-CLM-002,CMP-EGC-0028,headline,128GB LPDDR5X shared memory; 4x 5GbE and QSFP28; 12–24V DC,EGC-SRC-0028,manufacturer_claim,family,do not infer installed GPU or measured performance
+CMP-EGC-0029-CLM-001,CMP-EGC-0029,platform,Intel Core Series 2,EGC-SRC-0029,manufacturer_claim,family,requires exact SKU validation
+CMP-EGC-0029-CLM-002,CMP-EGC-0029,headline,A1 system SKU supports PCIe x16 + PCIe x4; GPU not assumed installed,EGC-SRC-0029,manufacturer_claim,family,do not infer installed GPU or measured performance
+CMP-EGC-0030-CLM-001,CMP-EGC-0030,platform,Jetson Orin NX,EGC-SRC-0030,manufacturer_claim,family,requires exact SKU validation
+CMP-EGC-0030-CLM-002,CMP-EGC-0030,headline,Four independent PoE LAN and four USB 3.2 Gen 2 ports; exact SKU unverified,EGC-SRC-0030,manufacturer_claim,family,do not infer installed GPU or measured performance

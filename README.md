@@ -1,36 +1,61 @@
 # PAI-SG Edge GPU Computer Catalog
 
-Public manufacturer-evidence catalog of **complete edge GPU computer systems** for robotics and Physical AI, managed by Statera-Guild. This is an engineering reference, **not** certification, benchmarking evidence, a procurement recommendation, or a description of the private PAI-SG architecture.
+Public manufacturer-evidence catalog of **complete edge GPU computer systems** for robotics and Physical AI, maintained by Statera-Guild. Catalog presence is not a certification, performance benchmark, procurement endorsement, or disclosure of the private PAI-SG engineering architecture.
 
-## Scope and separation
+## Catalog navigation
 
-- `EGC` includes enclosed integrated computers with CPU/GPU, memory, practical power input, cooling and accessible external I/O. Exclude standalone GPU/SoC/SOM and bare accelerator cards.
-- NVIDIA Jetson SOMs belong to [`edge-device-catalog`](https://github.com/Statera-Guild/edge-device-catalog) as `EAM`; finished systems using those SOMs belong here as `EGC`.
-- Names/IDs are immutable; family-card versus specific purchasable SKU must be explicit. A family record does not certify every listed option.
-- Public statuses: `listed` (identified with primary manufacturer evidence) or `documented` (major technical facts supported by manufacturer documents). Neither implies independent verification.
-- Public repo: official product facts, citations, uncertainty and research questions only. Confidential quotations, purchase terms, internal BOM, restricted test evidence and internal architecture live in private Core SSOT.
+- [Master Catalog — 0001–0025](validation_framework/integration/master_catalog_0001_0025.csv) (integration patch; requires commit)
+- [Master integration review queue](validation_framework/integration/review_queue_0001_0025.csv) (integration patch; requires commit)
+- [Wave 5 evidence — 0026–0030](validation_framework/wave_a/batch_0026_0030/README.md)
+- [Component Card schema](COMPONENT_CARD_SCHEMA.md)
+- [Evidence policy](validation_framework/docs/EVIDENCE_POLICY.md)
+- [Related Edge AI Module Catalog](https://github.com/Statera-Guild/edge-device-catalog)
 
-## Initial 10 records (Wave 1)
+## Product index (30 records; Wave 5 pending merge)
 
-| Component ID | Manufacturer | Product / product family | Status | Card |
+| Component ID | Manufacturer | Product / family | Public status | Component Card |
 |---|---|---|---|---|
-| CMP-EGC-0001 | Advantech | MIC-733-AO | listed | [Open](component_cards/CMP-EGC-0001.md) |
-| CMP-EGC-0002 | Advantech | MIC-711-OX | listed | [Open](component_cards/CMP-EGC-0002.md) |
-| CMP-EGC-0003 | AAEON | BOXER-8641AI | listed | [Open](component_cards/CMP-EGC-0003.md) |
-| CMP-EGC-0004 | AAEON | BOXER-8641AI-PLUS | listed | [Open](component_cards/CMP-EGC-0004.md) |
-| CMP-EGC-0005 | AAEON | BOXER-8653AI | listed | [Open](component_cards/CMP-EGC-0005.md) |
-| CMP-EGC-0006 | ADLINK | DLAP-411-Orin | listed | [Open](component_cards/CMP-EGC-0006.md) |
-| CMP-EGC-0007 | ADLINK | DLAP-411-Orin Supreme | listed | [Open](component_cards/CMP-EGC-0007.md) |
-| CMP-EGC-0008 | ADLINK | DLAP-211-Orin Series | listed | [Open](component_cards/CMP-EGC-0008.md) |
-| CMP-EGC-0009 | ADLINK | DLAP-211-Orin NX 16GB | listed | [Open](component_cards/CMP-EGC-0009.md) |
-| CMP-EGC-0010 | Advantech | MIC-736 | listed | [Open](component_cards/CMP-EGC-0010.md) |
+| `CMP-EGC-0001` | Advantech | MIC-733-AO | listed | [View](component_cards/CMP-EGC-0001.md) |
+| `CMP-EGC-0002` | Advantech | MIC-711-OX | listed | [View](component_cards/CMP-EGC-0002.md) |
+| `CMP-EGC-0003` | AAEON | BOXER-8641AI | listed | [View](component_cards/CMP-EGC-0003.md) |
+| `CMP-EGC-0004` | AAEON | BOXER-8641AI-PLUS | listed | [View](component_cards/CMP-EGC-0004.md) |
+| `CMP-EGC-0005` | AAEON | BOXER-8653AI | listed | [View](component_cards/CMP-EGC-0005.md) |
+| `CMP-EGC-0006` | ADLINK | DLAP-411-Orin | listed | [View](component_cards/CMP-EGC-0006.md) |
+| `CMP-EGC-0007` | ADLINK | DLAP-411-Orin Supreme | listed | [View](component_cards/CMP-EGC-0007.md) |
+| `CMP-EGC-0008` | ADLINK | DLAP-211-Orin Series | listed | [View](component_cards/CMP-EGC-0008.md) |
+| `CMP-EGC-0009` | ADLINK | DLAP-211-Orin NX 16GB | listed | [View](component_cards/CMP-EGC-0009.md) |
+| `CMP-EGC-0010` | Advantech | MIC-736 | listed | [View](component_cards/CMP-EGC-0010.md) |
+| `CMP-EGC-0011` | Neousys Technology | Nuvo-10108GC | listed | [View](component_cards/CMP-EGC-0011.md) |
+| `CMP-EGC-0012` | Neousys Technology | Nuvo-9166GC Series | listed | [View](component_cards/CMP-EGC-0012.md) |
+| `CMP-EGC-0013` | Neousys Technology | Nuvo-8240GC | listed | [View](component_cards/CMP-EGC-0013.md) |
+| `CMP-EGC-0014` | Neousys Technology | NRU-230V-AWP | listed | [View](component_cards/CMP-EGC-0014.md) |
+| `CMP-EGC-0015` | Neousys Technology | NRU-162S-AWP | listed | [View](component_cards/CMP-EGC-0015.md) |
+| `CMP-EGC-0016` | Neousys Technology | Nuvo-10208GC | listed | [View](component_cards/CMP-EGC-0016.md) |
+| `CMP-EGC-0017` | ASUS IoT | PE8000G | listed | [View](component_cards/CMP-EGC-0017.md) |
+| `CMP-EGC-0018` | ASUS IoT | PE6000G | listed | [View](component_cards/CMP-EGC-0018.md) |
+| `CMP-EGC-0019` | ASUS IoT | RUC-1000G | listed | [View](component_cards/CMP-EGC-0019.md) |
+| `CMP-EGC-0020` | ASUS IoT | EBS-4U1000 | listed | [View](component_cards/CMP-EGC-0020.md) |
+| `CMP-EGC-0021` | ADLINK | DLAP-8100 Series | listed | [View](component_cards/CMP-EGC-0021.md) |
+| `CMP-EGC-0022` | ADLINK | DLAP-5200 Series | listed | [View](component_cards/CMP-EGC-0022.md) |
+| `CMP-EGC-0023` | ADLINK | DLAP-8000 Series | listed | [View](component_cards/CMP-EGC-0023.md) |
+| `CMP-EGC-0024` | ADLINK | DLAP-4000 Series | listed | [View](component_cards/CMP-EGC-0024.md) |
+| `CMP-EGC-0025` | Advantech | MIC-770 V3 + MIC-75G20 | listed | [View](component_cards/CMP-EGC-0025.md) |
+| `CMP-EGC-0026` | AAEON | BOXER-8642AI | listed | [View](component_cards/CMP-EGC-0026.md) |
+| `CMP-EGC-0027` | AAEON | BOXER-8740AI | listed | [View](component_cards/CMP-EGC-0027.md) |
+| `CMP-EGC-0028` | AAEON | BOXER-8741AI | listed | [View](component_cards/CMP-EGC-0028.md) |
+| `CMP-EGC-0029` | AAEON | BOXER-6845-BTL | listed | [View](component_cards/CMP-EGC-0029.md) |
+| `CMP-EGC-0030` | AAEON | BOXER-8653AI-PLUS | listed | [View](component_cards/CMP-EGC-0030.md) |
 
-## Validation principle
+## Scope and status
 
-Every material claim must point to a source; additional evidence levels belong to the *claim*, not the public card status. `candidate`, `vendor_claim`, `reproduced`, `failed`, and `unknown` are **algorithm compatibility claim statuses**, not Component Card statuses. Zero PAI-SG execution benchmarks are asserted for Wave 1.
+`EGC` refers to integrated computers, not standalone GPU cards or SOMs. Jetson SOMs are managed as `EAM` in the separate Edge AI Module Catalog. A product *family* is not a verified orderable SKU; a modular host-plus-expansion configuration must be labeled as such. The 0025 entry is such a configuration, not an independent GPU module system.
 
-Graph predicates such as `USES_MODULE` or `SUPPORTS_ALGORITHM` are provisional until reconciled against PAI-SG S03.
+Public card statuses are `listed` or `documented` only. Workload compatibility evidence uses `candidate`, `vendor_claim`, `reproduced`, `failed`, or `unknown`, and is not equivalent to public card status. **No independent PAI-SG hardware benchmark is asserted by this index.** GPU support wattage is not whole-system measured consumption; Jetson LPDDR shared memory is not dedicated discrete VRAM.
 
-See `COMPONENT_CARD_SCHEMA.md`, `validation_framework/docs/EVIDENCE_POLICY.md`, `validation_framework/schemas/*.json` and `validation_framework/wave_a/`.
+Graph edges such as `USES_MODULE` and `SUPPORTS_ALGORITHM` are provisional until reconciliation with PAI-SG S03. Manufacturer claims and uncertainty may be public; restricted supplier terms, BOM, private architecture, and confidential tests remain in private Core SSOT.
 
-Last research review: 2026-10-09.
+## Validation and contribution
+
+Each new claim should carry a manufacturer source URL, claim scope, and unresolved SKU/variant assumptions. Use `validation_framework/wave_a/` for batch-level provenance, and `validation_framework/integration/` for master-level reconciliation. Do not upgrade a card to `documented` based on a product announcement alone.
+
+Last index update: 2026-10-09. **Commit the 25-record integration patch and Wave 5 together; after merge the public index will contain 30 entries.**

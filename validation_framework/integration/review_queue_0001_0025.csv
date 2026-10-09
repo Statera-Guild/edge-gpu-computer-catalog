@@ -1,0 +1,9 @@
+﻿issue_id,priority,component_ids,issue_type,review_action,state
+INT-001,high,CMP-EGC-0025,composite_configuration,Check whether a system configuration is permitted as a single EGC component; verify compatibility,open
+INT-002,high,CMP-EGC-0006;CMP-EGC-0007,family_variant_overlap,Check whether DLAP-411-Orin Supreme is a variant of DLAP-411-Orin,open
+INT-003,high,CMP-EGC-0008;CMP-EGC-0009,family_variant_overlap,Check DLAP-211-Orin Series vs NX 16GB exact SKU overlap,open
+INT-004,medium,CMP-EGC-0012;CMP-EGC-0021;CMP-EGC-0022;CMP-EGC-0023;CMP-EGC-0024,series_scope,Resolve family/series entries into orderable models when evidence supports it,open
+INT-005,high,CMP-EGC-0016;CMP-EGC-0017;CMP-EGC-0018;CMP-EGC-0019;CMP-EGC-0020,gpu_power_claims,"Separate maximum supported GPU TDP, PSU rating, input budget and measured wall power",open
+INT-006,high,CMP-EGC-0001..CMP-EGC-0025,manufacturer_evidence,"Verify exact manufacturer URLs, publication date, PDF revisions and per-claim citations",open
+INT-007,high,CMP-EGC-0001..CMP-EGC-0025,algorithm_evidence,Do not promote candidate or unknown to reproduced without test artifacts,open
+INT-008,medium,CMP-EGC-0001..CMP-EGC-0025,graph_mapping,Reconcile cross-catalog links against PAI-SG S03 before normative KG import,open
