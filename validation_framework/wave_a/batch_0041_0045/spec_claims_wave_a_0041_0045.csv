@@ -1,0 +1,11 @@
+claim_id,component_id,claim_field,claim_value,source_id,verification_status,scope,review_note
+CLM-EGC-0041-01,CMP-EGC-0041,product_identity,DLAP-212 Series,SRC-EGC-0041-01,manufacturer_claim,family,SKU and lifecycle unverified
+CLM-EGC-0041-02,CMP-EGC-0041,compute_platform,NVIDIA Jetson Orin NX / Orin Nano,SRC-EGC-0041-01,manufacturer_claim,family,SKU and lifecycle unverified
+CLM-EGC-0042-01,CMP-EGC-0042,product_identity,DLAP-211-Nano,SRC-EGC-0042-01,manufacturer_claim,family,SKU and lifecycle unverified
+CLM-EGC-0042-02,CMP-EGC-0042,compute_platform,NVIDIA Jetson Nano,SRC-EGC-0042-01,manufacturer_claim,family,SKU and lifecycle unverified
+CLM-EGC-0043-01,CMP-EGC-0043,product_identity,DLAP-301-Nano,SRC-EGC-0043-01,manufacturer_claim,family,SKU and lifecycle unverified
+CLM-EGC-0043-02,CMP-EGC-0043,compute_platform,NVIDIA Jetson Nano,SRC-EGC-0043-01,manufacturer_claim,family,SKU and lifecycle unverified
+CLM-EGC-0044-01,CMP-EGC-0044,product_identity,DLAP-211-JNX,SRC-EGC-0044-01,manufacturer_claim,family,SKU and lifecycle unverified
+CLM-EGC-0044-02,CMP-EGC-0044,compute_platform,NVIDIA Jetson Xavier NX,SRC-EGC-0044-01,manufacturer_claim,family,SKU and lifecycle unverified
+CLM-EGC-0045-01,CMP-EGC-0045,product_identity,DLAP-301-JNX,SRC-EGC-0045-01,manufacturer_claim,family,SKU and lifecycle unverified
+CLM-EGC-0045-02,CMP-EGC-0045,compute_platform,NVIDIA Jetson Xavier NX,SRC-EGC-0045-01,manufacturer_claim,family,SKU and lifecycle unverified

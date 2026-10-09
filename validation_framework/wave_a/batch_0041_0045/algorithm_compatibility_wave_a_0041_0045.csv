@@ -1,0 +1,51 @@
+component_id,algorithm,compatibility_status,test_status,evidence_note,next_action
+CMP-EGC-0041,YOLO object detection,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0041,DETR object detection,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0041,Semantic segmentation,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0041,Instance segmentation,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0041,Multi-object tracking,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0041,Video Transformer,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0041,Visual SLAM,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0041,Vision-language model,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0041,World model inference,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0041,ROS 2 perception integration,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0042,YOLO object detection,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0042,DETR object detection,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0042,Semantic segmentation,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0042,Instance segmentation,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0042,Multi-object tracking,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0042,Video Transformer,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0042,Visual SLAM,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0042,Vision-language model,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0042,World model inference,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0042,ROS 2 perception integration,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0043,YOLO object detection,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0043,DETR object detection,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0043,Semantic segmentation,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0043,Instance segmentation,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0043,Multi-object tracking,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0043,Video Transformer,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0043,Visual SLAM,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0043,Vision-language model,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0043,World model inference,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0043,ROS 2 perception integration,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0044,YOLO object detection,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0044,DETR object detection,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0044,Semantic segmentation,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0044,Instance segmentation,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0044,Multi-object tracking,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0044,Video Transformer,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0044,Visual SLAM,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0044,Vision-language model,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0044,World model inference,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0044,ROS 2 perception integration,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0045,YOLO object detection,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0045,DETR object detection,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0045,Semantic segmentation,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0045,Instance segmentation,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0045,Multi-object tracking,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0045,Video Transformer,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0045,Visual SLAM,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0045,Vision-language model,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0045,World model inference,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware
+CMP-EGC-0045,ROS 2 perception integration,candidate,not_tested,No PAI-SG benchmark or deployment test,Confirm runtime and validate on exact hardware

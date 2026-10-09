@@ -1,0 +1,6 @@
+component_id,manufacturer,product_name,status,record_scope,card_path,platform,source_type,official_source
+CMP-EGC-0041,ADLINK,DLAP-212 Series,listed,family,component_cards/CMP-EGC-0041.md,NVIDIA Jetson Orin NX / Orin Nano,manufacturer_catalog_page,https://www.adlinktech.com/en/dlap
+CMP-EGC-0042,ADLINK,DLAP-211-Nano,listed,family,component_cards/CMP-EGC-0042.md,NVIDIA Jetson Nano,manufacturer_product_portfolio,https://www.adlinktech.com/en/nvidia-jetson-dlap-ai-inference
+CMP-EGC-0043,ADLINK,DLAP-301-Nano,listed,family,component_cards/CMP-EGC-0043.md,NVIDIA Jetson Nano,manufacturer_product_portfolio,https://www.adlinktech.com/en/nvidia-jetson-dlap-ai-inference
+CMP-EGC-0044,ADLINK,DLAP-211-JNX,listed,family,component_cards/CMP-EGC-0044.md,NVIDIA Jetson Xavier NX,manufacturer_product_portfolio,https://www.adlinktech.com/en/nvidia-jetson-dlap-ai-inference
+CMP-EGC-0045,ADLINK,DLAP-301-JNX,listed,family,component_cards/CMP-EGC-0045.md,NVIDIA Jetson Xavier NX,manufacturer_product_portfolio,https://www.adlinktech.com/en/nvidia-jetson-dlap-ai-inference

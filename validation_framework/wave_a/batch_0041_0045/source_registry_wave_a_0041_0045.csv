@@ -1,0 +1,6 @@
+source_id,component_id,publisher,source_type,url,evidence_owner,accessed_date,claim_scope,limitations
+SRC-EGC-0041-01,CMP-EGC-0041,ADLINK,manufacturer_catalog_page,https://www.adlinktech.com/en/dlap,manufacturer,2026-10-09,product identity and platform family only,Preliminary; exact SKU and release status must be confirmed
+SRC-EGC-0042-01,CMP-EGC-0042,ADLINK,manufacturer_product_portfolio,https://www.adlinktech.com/en/nvidia-jetson-dlap-ai-inference,manufacturer,2026-10-09,product identity and platform family only,Legacy platform; lifecycle and availability unverified
+SRC-EGC-0043-01,CMP-EGC-0043,ADLINK,manufacturer_product_portfolio,https://www.adlinktech.com/en/nvidia-jetson-dlap-ai-inference,manufacturer,2026-10-09,product identity and platform family only,Video NVR with PoE; legacy lifecycle unverified
+SRC-EGC-0044-01,CMP-EGC-0044,ADLINK,manufacturer_product_portfolio,https://www.adlinktech.com/en/nvidia-jetson-dlap-ai-inference,manufacturer,2026-10-09,product identity and platform family only,Legacy platform; lifecycle and availability unverified
+SRC-EGC-0045-01,CMP-EGC-0045,ADLINK,manufacturer_product_portfolio,https://www.adlinktech.com/en/nvidia-jetson-dlap-ai-inference,manufacturer,2026-10-09,product identity and platform family only,Video NVR with PoE; legacy lifecycle unverified

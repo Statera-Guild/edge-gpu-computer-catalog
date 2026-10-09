@@ -4,18 +4,20 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 
 ## Catalog navigation
 
-- [Master Catalog — 0001–0040](validation_framework/integration/master_catalog_0001_0040.csv) (current index)
+- [Master Catalog — 0001–0045](validation_framework/integration/master_catalog_0001_0045.csv) (current index)
+- [Previous Master Catalog — 0001–0040](validation_framework/integration/master_catalog_0001_0040.csv) (historical snapshot)
 - [Previous Master Catalog — 0001–0035](validation_framework/integration/master_catalog_0001_0035.csv) (historical snapshot)
 - [Previous Master Catalog — 0001–0025](validation_framework/integration/master_catalog_0001_0025.csv) (historical snapshot)
 - [Master integration review queue](validation_framework/integration/review_queue_0001_0025.csv) (initial 25-record review queue)
 - [Wave 5 evidence — 0026–0030](validation_framework/wave_a/batch_0026_0030/README.md)
 - [Wave 6 evidence — 0031–0035](validation_framework/wave_a/batch_0031_0035/README.md)
 - [Wave 7 evidence — 0036–0040](validation_framework/wave_a/batch_0036_0040/README.md)
+- [Wave 8 evidence — 0041–0045](validation_framework/wave_a/batch_0041_0045/README.md)
 - [Component Card schema](COMPONENT_CARD_SCHEMA.md)
 - [Evidence policy](validation_framework/docs/EVIDENCE_POLICY.md)
 - [Related Edge AI Module Catalog](https://github.com/Statera-Guild/edge-device-catalog)
 
-## Product index (40 records; Wave 1–7)
+## Product index (45 records; Wave 1–8)
 
 | Component ID | Manufacturer | Product / family | Public status | Component Card |
 |---|---|---|---|---|
@@ -60,6 +62,11 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 | `CMP-EGC-0038` | Advantech | MIC-713-OX | listed | [View](component_cards/CMP-EGC-0038.md) |
 | `CMP-EGC-0039` | Advantech | MIC-715-OX | listed | [View](component_cards/CMP-EGC-0039.md) |
 | `CMP-EGC-0040` | Advantech | MIC-717-OX | listed | [View](component_cards/CMP-EGC-0040.md) |
+| `CMP-EGC-0041` | ADLINK | DLAP-212 Series | listed | [View](component_cards/CMP-EGC-0041.md) |
+| `CMP-EGC-0042` | ADLINK | DLAP-211-Nano | listed | [View](component_cards/CMP-EGC-0042.md) |
+| `CMP-EGC-0043` | ADLINK | DLAP-301-Nano | listed | [View](component_cards/CMP-EGC-0043.md) |
+| `CMP-EGC-0044` | ADLINK | DLAP-211-JNX | listed | [View](component_cards/CMP-EGC-0044.md) |
+| `CMP-EGC-0045` | ADLINK | DLAP-301-JNX | listed | [View](component_cards/CMP-EGC-0045.md) |
 
 ## Scope and status
 
@@ -70,6 +77,8 @@ Public card statuses are `listed` or `documented` only. Workload compatibility u
 Manufacturer product catalog indicates a discontinuation notice for BOXER-8645AI (0032); lifecycle must be verified before procurement. All exact SKUs and supplier availability require confirmation.
 
 Graph edges such as `USES_MODULE` and `SUPPORTS_ALGORITHM` are provisional until reconciliation with PAI-SG S03. Confidential BOM, restricted supplier terms, private architecture and tests remain in private Core SSOT.
+
+Wave 8 includes a preliminary DLAP-212 listing and legacy Jetson Nano/Xavier NX systems; confirm current lifecycle and exact SKU before procurement.
 
 ## Validation and contribution
 
