@@ -4,7 +4,8 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 
 ## Catalog navigation
 
-- [Master Catalog — 0001–0065](validation_framework/integration/master_catalog_0001_0065.csv) (current index)
+- [Master Catalog — 0001–0070](validation_framework/integration/master_catalog_0001_0070.csv) (current index)
+- [Previous Master Catalog — 0001–0065](validation_framework/integration/master_catalog_0001_0065.csv) (historical snapshot)
 - [Previous Master Catalog — 0001–0060](validation_framework/integration/master_catalog_0001_0060.csv) (historical snapshot)
 - [Previous Master Catalog — 0001–0055](validation_framework/integration/master_catalog_0001_0055.csv) (historical snapshot)
 - [Previous Master Catalog — 0001–0050](validation_framework/integration/master_catalog_0001_0050.csv) (historical snapshot)
@@ -21,11 +22,12 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 - [Wave 10 evidence — 0051–0055](validation_framework/wave_a/batch_0051_0055/README.md)
 - [Wave 11 evidence — 0056–0060](validation_framework/wave_a/batch_0056_0060/README.md)
 - [Wave 12 evidence — 0061–0065](validation_framework/wave_a/batch_0061_0065/README.md)
+- [Wave 13 evidence — 0066–0070](validation_framework/wave_a/batch_0066_0070/README.md)
 - [Component Card schema](COMPONENT_CARD_SCHEMA.md)
 - [Evidence policy](validation_framework/docs/EVIDENCE_POLICY.md)
 - [Related Edge AI Module Catalog](https://github.com/Statera-Guild/edge-device-catalog)
 
-## Product index (65 records; Wave 1–12)
+## Product index (70 records; Wave 1–13)
 
 | Component ID | Manufacturer | Product / family | Public status | Component Card |
 |---|---|---|---|---|
@@ -95,6 +97,11 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 | `CMP-EGC-0063` | ASUS IoT | PE4000G | listed | [View](component_cards/CMP-EGC-0063.md) |
 | `CMP-EGC-0064` | ASUS IoT | PE5101D | listed | [View](component_cards/CMP-EGC-0064.md) |
 | `CMP-EGC-0065` | ASUS IoT | RUC-1000G | listed | [View](component_cards/CMP-EGC-0065.md) |
+| `CMP-EGC-0066` | ASUS IoT | PE3000N | listed | [View](component_cards/CMP-EGC-0066.md) |
+| `CMP-EGC-0067` | ASUS IoT | PE1103N | listed | [View](component_cards/CMP-EGC-0067.md) |
+| `CMP-EGC-0068` | ASUS IoT | PE1102N | listed | [View](component_cards/CMP-EGC-0068.md) |
+| `CMP-EGC-0069` | ASUS IoT | PE1100N V2 | listed | [View](component_cards/CMP-EGC-0069.md) |
+| `CMP-EGC-0070` | ASUS IoT | PE2100N | listed | [View](component_cards/CMP-EGC-0070.md) |
 
 ## Scope and status
 
@@ -115,6 +122,8 @@ Wave 10 includes legacy Jetson models and manufacturer end-of-life notices. A `l
 Wave 11 adds Neousys GPU-capable industrial systems. Optional discrete GPU configurations must be distinguished from a shipped GPU; SKU and lifecycle verification remain pending.
 
 Wave 12 adds ASUS IoT GPU-capable systems; GPU installation, exact SKU, lifecycle and performance require verification.
+
+Wave 13 adds ASUS IoT Jetson integrated-GPU systems. Exact SKU, lifecycle and algorithm performance require validation. Cross-wave identity audit is pending; RUC-1000G is listed under two existing Component IDs (0019 and 0065).
 
 ## Validation and contribution
 

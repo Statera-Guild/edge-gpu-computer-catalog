@@ -1,0 +1,11 @@
+claim_id,component_id,claim_field,claim_value,source_id,verification_status,scope,review_note
+CLM-EGC-0066-01,CMP-EGC-0066,product_identity,PE3000N,SRC-EGC-0066-01,manufacturer_listed,family,Product appears on manufacturer portfolio; SKU pending
+CLM-EGC-0066-02,CMP-EGC-0066,platform_family,NVIDIA Jetson Thor edge AI computer,SRC-EGC-0066-01,manufacturer_listed,family,Specific module and revision not independently verified
+CLM-EGC-0067-01,CMP-EGC-0067,product_identity,PE1103N,SRC-EGC-0067-01,manufacturer_listed,family,Product appears on manufacturer portfolio; SKU pending
+CLM-EGC-0067-02,CMP-EGC-0067,platform_family,NVIDIA Jetson Orin NX / Orin Nano edge AI computer,SRC-EGC-0067-01,manufacturer_listed,family,Specific module and revision not independently verified
+CLM-EGC-0068-01,CMP-EGC-0068,product_identity,PE1102N,SRC-EGC-0068-01,manufacturer_listed,family,Product appears on manufacturer portfolio; SKU pending
+CLM-EGC-0068-02,CMP-EGC-0068,platform_family,NVIDIA Jetson Orin NX / Orin Nano edge AI computer,SRC-EGC-0068-01,manufacturer_listed,family,Specific module and revision not independently verified
+CLM-EGC-0069-01,CMP-EGC-0069,product_identity,PE1100N V2,SRC-EGC-0069-01,manufacturer_listed,family,Product appears on manufacturer portfolio; SKU pending
+CLM-EGC-0069-02,CMP-EGC-0069,platform_family,NVIDIA Jetson Orin NX / Orin Nano edge AI computer,SRC-EGC-0069-01,manufacturer_listed,family,Specific module and revision not independently verified
+CLM-EGC-0070-01,CMP-EGC-0070,product_identity,PE2100N,SRC-EGC-0070-01,manufacturer_listed,family,Product appears on manufacturer portfolio; SKU pending
+CLM-EGC-0070-02,CMP-EGC-0070,platform_family,NVIDIA Jetson AGX Orin edge AI computer,SRC-EGC-0070-01,manufacturer_listed,family,Specific module and revision not independently verified

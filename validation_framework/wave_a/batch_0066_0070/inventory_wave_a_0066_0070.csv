@@ -1,0 +1,6 @@
+component_id,manufacturer,product_name,status,record_scope,card_path,platform,source_type,official_source
+CMP-EGC-0066,ASUS IoT,PE3000N,listed,family,component_cards/CMP-EGC-0066.md,NVIDIA Jetson Thor edge AI computer,manufacturer_portfolio,https://iot.asus.com/kr/discover/edge-ai-nvidia-jetson-series/
+CMP-EGC-0067,ASUS IoT,PE1103N,listed,family,component_cards/CMP-EGC-0067.md,NVIDIA Jetson Orin NX / Orin Nano edge AI computer,manufacturer_portfolio,https://iot.asus.com/kr/discover/edge-ai-nvidia-jetson-series/
+CMP-EGC-0068,ASUS IoT,PE1102N,listed,family,component_cards/CMP-EGC-0068.md,NVIDIA Jetson Orin NX / Orin Nano edge AI computer,manufacturer_portfolio,https://iot.asus.com/kr/discover/edge-ai-nvidia-jetson-series/
+CMP-EGC-0069,ASUS IoT,PE1100N V2,listed,family,component_cards/CMP-EGC-0069.md,NVIDIA Jetson Orin NX / Orin Nano edge AI computer,manufacturer_portfolio,https://iot.asus.com/kr/discover/edge-ai-nvidia-jetson-series/
+CMP-EGC-0070,ASUS IoT,PE2100N,listed,family,component_cards/CMP-EGC-0070.md,NVIDIA Jetson AGX Orin edge AI computer,manufacturer_portfolio,https://iot.asus.com/kr/discover/edge-ai-nvidia-jetson-series/

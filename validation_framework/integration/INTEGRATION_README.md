@@ -1,5 +1,5 @@
-# Integrated master catalog — 65 records
+# Integrated master catalog — 70 Component IDs
 
-Current public snapshot: `master_catalog_0001_0065.csv` (Waves 1–12, 65 unique Component IDs). Earlier snapshots are retained.
+Current public snapshot: `master_catalog_0001_0070.csv` (Waves 1–13, 70 unique Component IDs). Earlier snapshots are retained.
 
-Manufacturer-sourced `listed` entries are not certifications, verified configurations or benchmarks. Wave 12 GPU-ready systems require confirmation of installed GPU and exact SKU. Public evidence is in `validation_framework/wave_a/`; confidential engineering and commercial information remain in private Core SSOT.
+Manufacturer-sourced `listed` entries are not certifications, verified SKUs or benchmarks. Cross-wave product identity audit is pending: RUC-1000G occurs under CMP-EGC-0019 and CMP-EGC-0065. Do not claim 70 distinct hardware models before deduplication. Public evidence is in `validation_framework/wave_a/`; confidential engineering and commercial information remain in private Core SSOT.

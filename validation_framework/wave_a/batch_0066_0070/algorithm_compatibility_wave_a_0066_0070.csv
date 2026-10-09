@@ -1,0 +1,51 @@
+component_id,algorithm,compatibility_status,test_status,evidence_note,next_action
+CMP-EGC-0066,YOLO object detection,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0066,DETR object detection,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0066,Semantic segmentation,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0066,Instance segmentation,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0066,Multi-object tracking,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0066,Visual SLAM,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0066,LiDAR point-cloud perception,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0066,Sensor fusion,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0066,Video transformer,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0066,World model inference,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0067,YOLO object detection,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0067,DETR object detection,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0067,Semantic segmentation,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0067,Instance segmentation,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0067,Multi-object tracking,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0067,Visual SLAM,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0067,LiDAR point-cloud perception,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0067,Sensor fusion,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0067,Video transformer,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0067,World model inference,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0068,YOLO object detection,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0068,DETR object detection,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0068,Semantic segmentation,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0068,Instance segmentation,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0068,Multi-object tracking,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0068,Visual SLAM,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0068,LiDAR point-cloud perception,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0068,Sensor fusion,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0068,Video transformer,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0068,World model inference,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0069,YOLO object detection,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0069,DETR object detection,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0069,Semantic segmentation,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0069,Instance segmentation,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0069,Multi-object tracking,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0069,Visual SLAM,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0069,LiDAR point-cloud perception,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0069,Sensor fusion,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0069,Video transformer,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0069,World model inference,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0070,YOLO object detection,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0070,DETR object detection,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0070,Semantic segmentation,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0070,Instance segmentation,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0070,Multi-object tracking,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0070,Visual SLAM,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0070,LiDAR point-cloud perception,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0070,Sensor fusion,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0070,Video transformer,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
+CMP-EGC-0070,World model inference,candidate,not_tested,Jetson GPU family; no device-specific benchmark or integration proof,Confirm JetPack and run reproducible test
