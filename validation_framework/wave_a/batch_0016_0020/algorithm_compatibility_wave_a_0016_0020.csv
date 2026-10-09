@@ -1,0 +1,51 @@
+﻿component_id,algorithm,compatibility_status,evidence_note
+CMP-EGC-0016,Classification,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0016,YOLO/DETR Object Detection,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0016,Segmentation,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0016,Multi-Object Tracking,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0016,Visual Odometry,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0016,SLAM,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0016,Video Transformer,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0016,VLM,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0016,VLA,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0016,World Model,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0017,Classification,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0017,YOLO/DETR Object Detection,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0017,Segmentation,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0017,Multi-Object Tracking,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0017,Visual Odometry,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0017,SLAM,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0017,Video Transformer,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0017,VLM,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0017,VLA,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0017,World Model,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0018,Classification,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0018,YOLO/DETR Object Detection,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0018,Segmentation,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0018,Multi-Object Tracking,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0018,Visual Odometry,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0018,SLAM,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0018,Video Transformer,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0018,VLM,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0018,VLA,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0018,World Model,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0019,Classification,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0019,YOLO/DETR Object Detection,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0019,Segmentation,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0019,Multi-Object Tracking,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0019,Visual Odometry,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0019,SLAM,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0019,Video Transformer,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0019,VLM,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0019,VLA,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0019,World Model,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0020,Classification,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0020,YOLO/DETR Object Detection,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0020,Segmentation,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0020,Multi-Object Tracking,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0020,Visual Odometry,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0020,SLAM,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0020,Video Transformer,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0020,VLM,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0020,VLA,unknown,No selected GPU/SKU or reproduced workload
+CMP-EGC-0020,World Model,unknown,No selected GPU/SKU or reproduced workload

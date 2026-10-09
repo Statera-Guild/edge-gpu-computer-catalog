@@ -1,0 +1,11 @@
+﻿claim_id,component_id,attribute,claim_value,scope,source_id,evidence_status
+EGC-CLM-0016-01,CMP-EGC-0016,gpu_accommodation,"dual discrete NVIDIA RTX GPUs, up to 350W per GPU",manufacturer family claim,EGC-SRC-0016,vendor_claim
+EGC-CLM-0017-01,CMP-EGC-0017,gpu_accommodation,"dual discrete GPU cards, up to 450W per GPU",manufacturer family claim,EGC-SRC-0017,vendor_claim
+EGC-CLM-0018-01,CMP-EGC-0018,gpu_accommodation,"single discrete GPU card, up to 450W",manufacturer family claim,EGC-SRC-0018,vendor_claim
+EGC-CLM-0019-01,CMP-EGC-0019,gpu_accommodation,"single discrete GPU card, up to 600W; PCIe 5.0",manufacturer family claim,EGC-SRC-0019,vendor_claim
+EGC-CLM-0020-01,CMP-EGC-0020,gpu_accommodation,up to three discrete 450W GPU cards,manufacturer family claim,EGC-SRC-0020,vendor_claim
+EGC-CLM-0016-02,CMP-EGC-0016,cpu_platform,Intel 14th/13th/12th Gen Core,manufacturer family claim,EGC-SRC-0016,vendor_claim
+EGC-CLM-0017-02,CMP-EGC-0017,cpu_platform,Intel Core Series 2 or 14th/13th/12th Gen,manufacturer family claim,EGC-SRC-0017,vendor_claim
+EGC-CLM-0018-02,CMP-EGC-0018,cpu_platform,Intel Core processor options: exact SKU pending,manufacturer family claim,EGC-SRC-0018,vendor_claim
+EGC-CLM-0019-02,CMP-EGC-0019,cpu_platform,Intel Core Ultra 200S series,manufacturer family claim,EGC-SRC-0019,vendor_claim
+EGC-CLM-0020-02,CMP-EGC-0020,cpu_platform,unknown,manufacturer family claim,EGC-SRC-0020,vendor_claim

@@ -1,0 +1,6 @@
+﻿source_id,component_id,source_type,source_url,review_date,qualification
+EGC-SRC-0016,CMP-EGC-0016,manufacturer_product_page,https://www.neousys-tech.com.cn/cn/product/processor/intel-ipc/nuvo-10208gc-intel-13th-nvidia-rtx-gpu-computing-platform,2026-10-09,"family-level, not SKU validation"
+EGC-SRC-0017,CMP-EGC-0017,manufacturer_product_page,https://www.asus.com/kr/networking-iot-servers/aiot-industrial-solutions/embedded-computers-edge-ai-systems/pe8000g/,2026-10-09,"family-level, not SKU validation"
+EGC-SRC-0018,CMP-EGC-0018,manufacturer_product_page,https://www.asus.com/kr/content/asus-iot-edge-ai-systems/,2026-10-09,"family-level, not SKU validation"
+EGC-SRC-0019,CMP-EGC-0019,manufacturer_product_page,https://www.asus.com/kr/content/asus-iot-edge-ai-systems/,2026-10-09,"family-level, not SKU validation"
+EGC-SRC-0020,CMP-EGC-0020,manufacturer_product_page,https://www.asus.com/content/asus-iot-edge-ai-systems/,2026-10-09,"family-level, not SKU validation"

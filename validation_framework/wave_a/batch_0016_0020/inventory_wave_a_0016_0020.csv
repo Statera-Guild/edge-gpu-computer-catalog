@@ -1,0 +1,6 @@
+﻿component_id,manufacturer,product_name,status,record_scope,card_path
+CMP-EGC-0016,Neousys Technology,Nuvo-10208GC,listed,family,component_cards/CMP-EGC-0016.md
+CMP-EGC-0017,ASUS IoT,PE8000G,listed,family,component_cards/CMP-EGC-0017.md
+CMP-EGC-0018,ASUS IoT,PE6000G,listed,family,component_cards/CMP-EGC-0018.md
+CMP-EGC-0019,ASUS IoT,RUC-1000G,listed,family,component_cards/CMP-EGC-0019.md
+CMP-EGC-0020,ASUS IoT,EBS-4U1000,listed,family,component_cards/CMP-EGC-0020.md
