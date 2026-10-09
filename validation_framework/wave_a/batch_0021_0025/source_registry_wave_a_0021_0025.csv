@@ -1,0 +1,6 @@
+source_id,component_id,publisher,source_type,url,accessed_date,evidence_status
+SRC-EGC-0021-01,CMP-EGC-0021,ADLINK,official_manufacturer_product_page,https://www.adlinktech.com/Products/industrial_pcs_fanless_embedded_pcs/IPCSystems/DLAP-8100_Series,2026-10-09,manufacturer_claim_only
+SRC-EGC-0022-01,CMP-EGC-0022,ADLINK,official_manufacturer_product_page,https://www.adlinktech.com/Products/industrial_pcs_fanless_embedded_pcs/IPCSystems/DLAP-5200_Series,2026-10-09,manufacturer_claim_only
+SRC-EGC-0023-01,CMP-EGC-0023,ADLINK,official_manufacturer_product_page,https://www.adlinktech.com/products/industrial_pcs_fanless_embedded_pcs/IPCSystems/DLAP-8000_Series?lang=en,2026-10-09,manufacturer_claim_only
+SRC-EGC-0024-01,CMP-EGC-0024,ADLINK,official_manufacturer_product_page,https://www.adlinktech.com/Products/Industrial_PCs_Fanless_Embedded_PCs/IPCSystems/DLAP-4000_Series,2026-10-09,manufacturer_claim_only
+SRC-EGC-0025-01,CMP-EGC-0025,Advantech,official_manufacturer_product_page,https://www.advantech.com/en-us/products/088556da-e8d6-4502-8e67-17567a0a95b5/mic-75g20/mod_e39bfbcf-f640-4445-a411-21376c45532d,2026-10-09,manufacturer_claim_only

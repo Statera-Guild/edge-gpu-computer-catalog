@@ -1,0 +1,26 @@
+component_id,claim_key,claim_value,source_id,evidence_status,review_note
+CMP-EGC-0021,cpu_family,Intel Core Series 2 / 14th/13th/12th Gen,SRC-EGC-0021-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0021,gpu_capability,NVIDIA RTX A6000E up to 350 W; PCIe Gen4 x16,SRC-EGC-0021-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0021,system_memory,Up to 196 GB DDR5; four SODIMM slots,SRC-EGC-0021-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0021,io_overview,3 x 2.5GbE; 4 x COM; digital I/O,SRC-EGC-0021-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0021,configuration_notes,NVIDIA Qualified System; 4 hot-swappable SATA trays,SRC-EGC-0021-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0022,cpu_family,Intel Core Series 2 / 14th/13th/12th Gen,SRC-EGC-0022-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0022,gpu_capability,MXM 3.1 Type A/B module; GPU depends on orderable SKU,SRC-EGC-0022-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0022,system_memory,Up to 196 GB DDR5,SRC-EGC-0022-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0022,io_overview,Front-accessible I/O; exact ports depend on SKU,SRC-EGC-0022-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0022,configuration_notes,Order examples RTX3000 and A2000; Linux Ubuntu 22.04 listed,SRC-EGC-0022-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0023,cpu_family,9th Gen Intel Xeon / Core,SRC-EGC-0023-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0023,gpu_capability,Two dual-width FHFL PEG slots per ADLINK GPU solutions page,SRC-EGC-0023-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0023,system_memory,Up to 64 GB DDR4; ECC option,SRC-EGC-0023-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0023,io_overview,"Multiple GbE, serial, digital I/O; hot-swap SATA",SRC-EGC-0023-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0023,configuration_notes,PCIe slot topology depends on SKU; verify GPU power/thermal envelope,SRC-EGC-0023-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0024,cpu_family,8th/9th Gen Intel Core,SRC-EGC-0024-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0024,gpu_capability,FHFL dual-width PEG; NVIDIA Quadro cards in vendor recommendation,SRC-EGC-0024-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0024,system_memory,Up to 32 GB DDR4 non-ECC,SRC-EGC-0024-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0024,io_overview,DVI HDMI DP; mini PCIe,SRC-EGC-0024-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0024,configuration_notes,300 W / 500 W Flex ATX PSU options; older generation,SRC-EGC-0024-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0025,cpu_family,"12th/13th/14th Gen Intel Core, subject to MIC-770 V3 SKU",SRC-EGC-0025-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0025,gpu_capability,"MIC-75G20 supports NVIDIA GPU card up to 350 W, 2.75-slot",SRC-EGC-0025-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0025,system_memory,MIC-770 V3 memory varies by SKU,SRC-EGC-0025-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0025,io_overview,MIC-75G20: PCIe x16 + PCIe x4; dual removable 2.5-inch bays,SRC-EGC-0025-01,vendor_claim,needs_sku_and_datasheet_verification
+CMP-EGC-0025,configuration_notes,"Configuration, not standalone MIC-75G20 computer; host and expansion compatibility must be verified",SRC-EGC-0025-01,vendor_claim,needs_sku_and_datasheet_verification
