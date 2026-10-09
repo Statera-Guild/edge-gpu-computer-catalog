@@ -1,0 +1,11 @@
+claim_id,component_id,claim_field,claim_value,source_id,verification_status,scope,review_note
+CLM-EGC-0056-01,CMP-EGC-0056,product_identity,Nuvo-9160GC,SRC-EGC-0056-01,manufacturer_claim,family,"Product family only; exact SKU, GPU option and current lifecycle pending"
+CLM-EGC-0056-02,CMP-EGC-0056,compute_platform,Discrete NVIDIA GPU expansion platform,SRC-EGC-0056-01,manufacturer_claim,family,"Product family only; exact SKU, GPU option and current lifecycle pending"
+CLM-EGC-0057-01,CMP-EGC-0057,product_identity,SEMIL-2000GC,SRC-EGC-0057-01,manufacturer_claim,family,"Product family only; exact SKU, GPU option and current lifecycle pending"
+CLM-EGC-0057-02,CMP-EGC-0057,compute_platform,Rugged discrete GPU computer,SRC-EGC-0057-01,manufacturer_claim,family,"Product family only; exact SKU, GPU option and current lifecycle pending"
+CLM-EGC-0058-01,CMP-EGC-0058,product_identity,RGS-8805GC,SRC-EGC-0058-01,manufacturer_claim,family,"Product family only; exact SKU, GPU option and current lifecycle pending"
+CLM-EGC-0058-02,CMP-EGC-0058,compute_platform,Rugged GPU computer,SRC-EGC-0058-01,manufacturer_claim,family,"Product family only; exact SKU, GPU option and current lifecycle pending"
+CLM-EGC-0059-01,CMP-EGC-0059,product_identity,GT-92GC,SRC-EGC-0059-01,manufacturer_claim,family,"Product family only; exact SKU, GPU option and current lifecycle pending"
+CLM-EGC-0059-02,CMP-EGC-0059,compute_platform,GPU computing platform,SRC-EGC-0059-01,manufacturer_claim,family,"Product family only; exact SKU, GPU option and current lifecycle pending"
+CLM-EGC-0060-01,CMP-EGC-0060,product_identity,Nuvo-10000 Series,SRC-EGC-0060-01,manufacturer_claim,family,"Product family only; exact SKU, GPU option and current lifecycle pending"
+CLM-EGC-0060-02,CMP-EGC-0060,compute_platform,Expandable industrial GPU-capable computer,SRC-EGC-0060-01,manufacturer_claim,family,"Product family only; exact SKU, GPU option and current lifecycle pending"

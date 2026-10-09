@@ -1,0 +1,6 @@
+component_id,manufacturer,product_name,status,record_scope,card_path,platform,source_type,official_source
+CMP-EGC-0056,Neousys Technology,Nuvo-9160GC,listed,family,component_cards/CMP-EGC-0056.md,Discrete NVIDIA GPU expansion platform,manufacturer_brochure,https://www.neousys.eu/images/uploaded/katalogy/2025A1_edge-ai-gpu-computing-brochure.pdf
+CMP-EGC-0057,Neousys Technology,SEMIL-2000GC,listed,family,component_cards/CMP-EGC-0057.md,Rugged discrete GPU computer,manufacturer_brochure,https://www.neousys.eu/images/uploaded/katalogy/2025A1_edge-ai-gpu-computing-brochure.pdf
+CMP-EGC-0058,Neousys Technology,RGS-8805GC,listed,family,component_cards/CMP-EGC-0058.md,Rugged GPU computer,manufacturer_brochure,https://www.neousys.eu/images/uploaded/katalogy/2025A1_edge-ai-gpu-computing-brochure.pdf
+CMP-EGC-0059,Neousys Technology,GT-92GC,listed,family,component_cards/CMP-EGC-0059.md,GPU computing platform,manufacturer_brochure,https://www.neousys.eu/images/uploaded/katalogy/2025A1_edge-ai-gpu-computing-brochure.pdf
+CMP-EGC-0060,Neousys Technology,Nuvo-10000 Series,listed,family,component_cards/CMP-EGC-0060.md,Expandable industrial GPU-capable computer,manufacturer_manual,https://neousys.eu/images/uploaded/nuvo-10000_manual_ver_1-2.pdf

@@ -1,5 +1,5 @@
-# Integrated master catalog — 55 records
+# Integrated master catalog — 60 records
 
-Current public snapshot: `master_catalog_0001_0055.csv` (Waves 1–10; 55 unique Component IDs). Earlier snapshots remain unchanged.
+Current public snapshot: `master_catalog_0001_0060.csv` (Waves 1–11, 60 unique Component IDs). Earlier snapshots are retained.
 
-Entries are manufacturer-sourced `listed` records with pending identity/evidence review, not certifications or benchmarks. Wave 10 includes legacy and EOL devices; confirm exact SKU and lifecycle. Public evidence is under `validation_framework/wave_a/`, while private engineering and commercial information remains in Core SSOT.
+Records are manufacturer-evidence `listed` entries, not certification or performance benchmarks. Exact SKUs, lifecycle and GPU configurations require review. Wave 11 includes GPU-capable hosts whose discrete GPUs may be optional. Public evidence resides in `validation_framework/wave_a/`; confidential engineering and commercial data remain in Core SSOT.
