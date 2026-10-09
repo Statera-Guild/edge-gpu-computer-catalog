@@ -70,7 +70,6 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 | `CMP-EGC-0033` | AAEON | BOXER-8646AI | listed | [View](component_cards/CMP-EGC-0033.md) |
 | `CMP-EGC-0034` | AAEON | BOXER-8651AI-PLUS | listed | [View](component_cards/CMP-EGC-0034.md) |
 | `CMP-EGC-0035` | AAEON | BOXER-8652AI-PLUS | listed | [View](component_cards/CMP-EGC-0035.md) |
-
 | `CMP-EGC-0036` | Advantech | MIC-743-AT | listed | [View](component_cards/CMP-EGC-0036.md) |
 | `CMP-EGC-0037` | Advantech | MIC-742-AT | listed | [View](component_cards/CMP-EGC-0037.md) |
 | `CMP-EGC-0038` | Advantech | MIC-713-OX | listed | [View](component_cards/CMP-EGC-0038.md) |
