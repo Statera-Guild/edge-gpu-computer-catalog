@@ -1,0 +1,6 @@
+component_id,manufacturer,product_name,status,record_scope,card_path,platform,source_type,official_source
+CMP-EGC-0071,AAEON,BOXER-8655AI,listed,family,component_cards/CMP-EGC-0071.md,NVIDIA Jetson Orin NX; fanless embedded AI system; GMSL2 cameras,manufacturer_product_page,https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8655ai
+CMP-EGC-0072,AAEON,BOXER-8658AI,listed,family,component_cards/CMP-EGC-0072.md,NVIDIA Jetson Orin NX; fanless PoE in-vehicle AI system,manufacturer_product_page,https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8658ai
+CMP-EGC-0073,AAEON,BOXER-8658AI-PLUS,listed,family,component_cards/CMP-EGC-0073.md,NVIDIA Jetson Orin NX; PoE embedded AI system variant,manufacturer_catalog,https://catalog.aaeon.com.tw/Systems/files/basic-html/page3.html
+CMP-EGC-0074,Advantech,MIB-741-AT,listed,family,component_cards/CMP-EGC-0074.md,NVIDIA Jetson Thor T4000; AI inference system,manufacturer_product_page,https://www.advantech.com/ko-kr/products/f8c8792f-5837-421d-b268-f40a8fc1e484/mib-741-at/mod_68d73d71-4805-4925-b59c-cd067364b41c
+CMP-EGC-0075,Advantech,MIC-741-AT,listed,family,component_cards/CMP-EGC-0075.md,NVIDIA Jetson Thor; AI inference system,manufacturer_product_page,https://www.advantech.com/ko-kr/products/f8c8792f-5837-421d-b268-f40a8fc1e484/mib-741-at/mod_68d73d71-4805-4925-b59c-cd067364b41c

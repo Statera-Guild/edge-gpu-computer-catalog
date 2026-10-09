@@ -1,0 +1,11 @@
+claim_id,component_id,claim_field,claim_value,source_id,verification_status,scope,review_note
+CLM-EGC-0071-01,CMP-EGC-0071,product_identity,BOXER-8655AI,SRC-EGC-0071-01,manufacturer_claim,family,"Exact SKU, lifecycle, installed configuration and independent tests pending"
+CLM-EGC-0071-02,CMP-EGC-0071,compute_platform,NVIDIA Jetson Orin NX; fanless embedded AI system; GMSL2 cameras,SRC-EGC-0071-01,manufacturer_claim,family,"Exact SKU, lifecycle, installed configuration and independent tests pending"
+CLM-EGC-0072-01,CMP-EGC-0072,product_identity,BOXER-8658AI,SRC-EGC-0072-01,manufacturer_claim,family,"Exact SKU, lifecycle, installed configuration and independent tests pending"
+CLM-EGC-0072-02,CMP-EGC-0072,compute_platform,NVIDIA Jetson Orin NX; fanless PoE in-vehicle AI system,SRC-EGC-0072-01,manufacturer_claim,family,"Exact SKU, lifecycle, installed configuration and independent tests pending"
+CLM-EGC-0073-01,CMP-EGC-0073,product_identity,BOXER-8658AI-PLUS,SRC-EGC-0073-01,manufacturer_claim,family,"Exact SKU, lifecycle, installed configuration and independent tests pending"
+CLM-EGC-0073-02,CMP-EGC-0073,compute_platform,NVIDIA Jetson Orin NX; PoE embedded AI system variant,SRC-EGC-0073-01,manufacturer_claim,family,"Exact SKU, lifecycle, installed configuration and independent tests pending"
+CLM-EGC-0074-01,CMP-EGC-0074,product_identity,MIB-741-AT,SRC-EGC-0074-01,manufacturer_claim,family,"Exact SKU, lifecycle, installed configuration and independent tests pending"
+CLM-EGC-0074-02,CMP-EGC-0074,compute_platform,NVIDIA Jetson Thor T4000; AI inference system,SRC-EGC-0074-01,manufacturer_claim,family,"Exact SKU, lifecycle, installed configuration and independent tests pending"
+CLM-EGC-0075-01,CMP-EGC-0075,product_identity,MIC-741-AT,SRC-EGC-0075-01,manufacturer_claim,family,"Exact SKU, lifecycle, installed configuration and independent tests pending"
+CLM-EGC-0075-02,CMP-EGC-0075,compute_platform,NVIDIA Jetson Thor; AI inference system,SRC-EGC-0075-01,manufacturer_claim,family,"Exact SKU, lifecycle, installed configuration and independent tests pending"
