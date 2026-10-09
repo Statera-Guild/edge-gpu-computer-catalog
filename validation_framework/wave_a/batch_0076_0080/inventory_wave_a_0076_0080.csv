@@ -1,0 +1,6 @@
+component_id,manufacturer,product_name,status,record_scope,card_path,platform,source_type,official_source
+CMP-EGC-0076,ADLINK,DLAP-701,listed,family,component_cards/CMP-EGC-0076.md,NVIDIA Jetson Thor T5000/T4000 compact edge AI computer,manufacturer_product_page,https://www.adlinktech.com/Products/Deep_Learning_Accelerator_Platform_and_Server/Inference_Platform/DLAP-701?lang=en
+CMP-EGC-0077,ADLINK,DLAP-711 Series,listed,family,component_cards/CMP-EGC-0077.md,NVIDIA Jetson Thor robotics edge AI platform with GMSL2 interfaces,manufacturer_product_page,https://www.adlinktech.com/Products/Deep_Learning_Accelerator_Platform_and_Server/Inference_Platform/DLAP-711_Series?lang=ko
+CMP-EGC-0078,ADLINK,DLAP-IGX,listed,family,component_cards/CMP-EGC-0078.md,NVIDIA IGX Thor industrial edge AI platform,manufacturer_family_page,https://www.adlinktech.com/en/dlap
+CMP-EGC-0079,ADLINK,DLAP-401-Xavier,listed,family,component_cards/CMP-EGC-0079.md,NVIDIA Jetson AGX Xavier fanless edge AI inference platform,manufacturer_product_page,https://www.adlinktech.com/Products/Deep_Learning_Accelerator_Platform_and_Server/Inference_Platform/DLAP-401-Xavier
+CMP-EGC-0080,ADLINK,RQX-71G,listed,family,component_cards/CMP-EGC-0080.md,NVIDIA Jetson Thor robotic edge AI controller platform,manufacturer_family_page,https://www.adlinktech.com/kr/dlap

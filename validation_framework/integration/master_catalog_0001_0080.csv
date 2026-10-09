@@ -1,0 +1,81 @@
+component_id,manufacturer,product_name,wave,card_path,record_status,record_scope_review,identity_review,evidence_review,integration_note
+CMP-EGC-0001,Advantech,MIC-733-AO,1,component_cards/CMP-EGC-0001.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0002,Advantech,MIC-711-OX,1,component_cards/CMP-EGC-0002.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0003,AAEON,BOXER-8641AI,1,component_cards/CMP-EGC-0003.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0004,AAEON,BOXER-8641AI-PLUS,1,component_cards/CMP-EGC-0004.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0005,AAEON,BOXER-8653AI,1,component_cards/CMP-EGC-0005.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0006,ADLINK,DLAP-411-Orin,1,component_cards/CMP-EGC-0006.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0007,ADLINK,DLAP-411-Orin Supreme,1,component_cards/CMP-EGC-0007.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0008,ADLINK,DLAP-211-Orin Series,1,component_cards/CMP-EGC-0008.md,listed,needs SKU verification,pending,pending,Review series vs orderable SKU
+CMP-EGC-0009,ADLINK,DLAP-211-Orin NX 16GB,1,component_cards/CMP-EGC-0009.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0010,Advantech,MIC-736,1,component_cards/CMP-EGC-0010.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0011,Neousys Technology,Nuvo-10108GC,2,component_cards/CMP-EGC-0011.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0012,Neousys Technology,Nuvo-9166GC Series,2,component_cards/CMP-EGC-0012.md,listed,needs SKU verification,pending,pending,Review series vs orderable SKU
+CMP-EGC-0013,Neousys Technology,Nuvo-8240GC,2,component_cards/CMP-EGC-0013.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0014,Neousys Technology,NRU-230V-AWP,2,component_cards/CMP-EGC-0014.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0015,Neousys Technology,NRU-162S-AWP,2,component_cards/CMP-EGC-0015.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0016,Neousys Technology,Nuvo-10208GC,3,component_cards/CMP-EGC-0016.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0017,ASUS IoT,PE8000G,3,component_cards/CMP-EGC-0017.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0018,ASUS IoT,PE6000G,3,component_cards/CMP-EGC-0018.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0019,ASUS IoT,RUC-1000G,3,component_cards/CMP-EGC-0019.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0020,ASUS IoT,EBS-4U1000,3,component_cards/CMP-EGC-0020.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0021,ADLINK,DLAP-8100 Series,4,component_cards/CMP-EGC-0021.md,listed,needs SKU verification,pending,pending,Review series vs orderable SKU
+CMP-EGC-0022,ADLINK,DLAP-5200 Series,4,component_cards/CMP-EGC-0022.md,listed,needs SKU verification,pending,pending,Review series vs orderable SKU
+CMP-EGC-0023,ADLINK,DLAP-8000 Series,4,component_cards/CMP-EGC-0023.md,listed,needs SKU verification,pending,pending,Review series vs orderable SKU
+CMP-EGC-0024,ADLINK,DLAP-4000 Series,4,component_cards/CMP-EGC-0024.md,listed,needs SKU verification,pending,pending,Review series vs orderable SKU
+CMP-EGC-0025,Advantech,MIC-770 V3 + MIC-75G20,4,component_cards/CMP-EGC-0025.md,listed,configuration,pending,pending,"Review host + expansion compatibility; composite configuration, not one SKU"
+CMP-EGC-0026,AAEON,BOXER-8642AI,5,component_cards/CMP-EGC-0026.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0027,AAEON,BOXER-8740AI,5,component_cards/CMP-EGC-0027.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0028,AAEON,BOXER-8741AI,5,component_cards/CMP-EGC-0028.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0029,AAEON,BOXER-6845-BTL,5,component_cards/CMP-EGC-0029.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0030,AAEON,BOXER-8653AI-PLUS,5,component_cards/CMP-EGC-0030.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0031,AAEON,BOXER-8640AI,6,component_cards/CMP-EGC-0031.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0032,AAEON,BOXER-8645AI,6,component_cards/CMP-EGC-0032.md,listed,needs SKU verification,pending,pending,Manufacturer catalog indicates discontinuation; confirm lifecycle before new design
+CMP-EGC-0033,AAEON,BOXER-8646AI,6,component_cards/CMP-EGC-0033.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0034,AAEON,BOXER-8651AI-PLUS,6,component_cards/CMP-EGC-0034.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0035,AAEON,BOXER-8652AI-PLUS,6,component_cards/CMP-EGC-0035.md,listed,needs SKU verification,pending,pending,Confirm exact orderable SKU and source claims
+CMP-EGC-0036,Advantech,MIC-743-AT,7,component_cards/CMP-EGC-0036.md,listed,needs SKU verification,pending,pending,Jetson Thor edge inference system; T5000 and T4000 variants require SKU confirmation
+CMP-EGC-0037,Advantech,MIC-742-AT,7,component_cards/CMP-EGC-0037.md,listed,needs SKU verification,pending,pending,Jetson Thor system with GMSL2 camera interfaces; verify camera configuration
+CMP-EGC-0038,Advantech,MIC-713-OX,7,component_cards/CMP-EGC-0038.md,listed,needs SKU verification,pending,pending,Compact fanless inference computer; memory and module variant unresolved
+CMP-EGC-0039,Advantech,MIC-715-OX,7,component_cards/CMP-EGC-0039.md,listed,needs SKU verification,pending,pending,Rugged in-vehicle fanless AI computer; environmental ratings require variant evidence
+CMP-EGC-0040,Advantech,MIC-717-OX,7,component_cards/CMP-EGC-0040.md,listed,needs SKU verification,pending,pending,AI network video recorder; not a general-purpose AMR controller by default
+CMP-EGC-0041,ADLINK,DLAP-212 Series,8,component_cards/CMP-EGC-0041.md,listed,needs SKU verification,pending,pending,Preliminary product family; SKU and release status pending
+CMP-EGC-0042,ADLINK,DLAP-211-Nano,8,component_cards/CMP-EGC-0042.md,listed,needs SKU verification,pending,pending,Legacy Jetson Nano lifecycle and SKU pending
+CMP-EGC-0043,ADLINK,DLAP-301-Nano,8,component_cards/CMP-EGC-0043.md,listed,needs SKU verification,pending,pending,NVR-specific system; legacy lifecycle pending
+CMP-EGC-0044,ADLINK,DLAP-211-JNX,8,component_cards/CMP-EGC-0044.md,listed,needs SKU verification,pending,pending,Legacy Jetson Xavier NX lifecycle and SKU pending
+CMP-EGC-0045,ADLINK,DLAP-301-JNX,8,component_cards/CMP-EGC-0045.md,listed,needs SKU verification,pending,pending,NVR-specific system; legacy lifecycle pending
+CMP-EGC-0046,Neousys Technology,NRU-220S,9,component_cards/CMP-EGC-0046.md,listed,needs SKU verification,pending,pending,AI NVR; confirm PoE and 2.5GbE configuration
+CMP-EGC-0047,Neousys Technology,NRU-222S,9,component_cards/CMP-EGC-0047.md,listed,needs SKU verification,pending,pending,M12-connector AI NVR; confirm variant
+CMP-EGC-0048,Neousys Technology,NRU-240S-AWP,9,component_cards/CMP-EGC-0048.md,listed,needs SKU verification,pending,pending,IP66 AGX Orin PoE system; distinct from NRU-230V-AWP
+CMP-EGC-0049,Neousys Technology,NRU-171V-PPC,9,component_cards/CMP-EGC-0049.md,listed,needs SKU verification,pending,pending,IP66 integrated GMSL2 panel PC; confirm module and SKU
+CMP-EGC-0050,Neousys Technology,NRU-172S-PPC,9,component_cards/CMP-EGC-0050.md,listed,needs SKU verification,pending,pending,IP66 integrated PoE panel PC; confirm module and SKU
+CMP-EGC-0051,AAEON,BOXER-8621AI,10,component_cards/CMP-EGC-0051.md,listed,needs SKU verification,pending,pending,Verify Orin Nano variant and Super Mode SKU
+CMP-EGC-0052,AAEON,BOXER-8224AI,10,component_cards/CMP-EGC-0052.md,listed,needs SKU verification,pending,pending,Carrier/module/heatsink assembly: confirm EGC category and legacy lifecycle
+CMP-EGC-0053,AAEON,BOXER-8253AI,10,component_cards/CMP-EGC-0053.md,listed,needs SKU verification,pending,pending,Legacy Xavier NX; verify lifecycle
+CMP-EGC-0054,AAEON,BOXER-8250AI,10,component_cards/CMP-EGC-0054.md,listed,needs SKU verification,pending,pending,Manufacturer End-of-Life Products category
+CMP-EGC-0055,AAEON,BOXER-8230AI,10,component_cards/CMP-EGC-0055.md,listed,needs SKU verification,pending,pending,EOL; last buy date 2024-06-28 per manufacturer
+CMP-EGC-0056,Neousys Technology,Nuvo-9160GC,11,component_cards/CMP-EGC-0056.md,listed,needs SKU verification,pending,pending,"GPU is optional; exact compatible GPU SKU, power, thermal envelope pending"
+CMP-EGC-0057,Neousys Technology,SEMIL-2000GC,11,component_cards/CMP-EGC-0057.md,listed,needs SKU verification,pending,pending,"Confirm model variant, GPU configuration, ruggedization and lifecycle"
+CMP-EGC-0058,Neousys Technology,RGS-8805GC,11,component_cards/CMP-EGC-0058.md,listed,needs SKU verification,pending,pending,"Confirm exact GPU configuration, operating limits and SKU"
+CMP-EGC-0059,Neousys Technology,GT-92GC,11,component_cards/CMP-EGC-0059.md,listed,needs SKU verification,pending,pending,"Confirm exact GPU option, cooling and orderable SKU"
+CMP-EGC-0060,Neousys Technology,Nuvo-10000 Series,11,component_cards/CMP-EGC-0060.md,listed,needs SKU verification,pending,pending,GPU is optional; exact PCIe expansion/GPU configuration must be verified
+CMP-EGC-0061,ASUS IoT,PE3100G,12,component_cards/CMP-EGC-0061.md,listed,needs SKU verification,pending,pending,GPU module optional; confirm module SKU and thermal rating
+CMP-EGC-0062,ASUS IoT,PE3000G,12,component_cards/CMP-EGC-0062.md,listed,needs SKU verification,pending,pending,GPU module optional; verify MXM compatibility
+CMP-EGC-0063,ASUS IoT,PE4000G,12,component_cards/CMP-EGC-0063.md,listed,needs SKU verification,pending,pending,"GPU not necessarily installed; power is GPU support limit, not measured system consumption"
+CMP-EGC-0064,ASUS IoT,PE5101D,12,component_cards/CMP-EGC-0064.md,listed,needs SKU verification,pending,pending,GPU optional; verify GPU SKU and current manufacturer datasheet
+CMP-EGC-0065,ASUS IoT,RUC-1000G,12,component_cards/CMP-EGC-0065.md,listed,needs SKU verification,pending,pending,Rack system; 600W denotes supported GPU capacity not measured consumption
+CMP-EGC-0066,ASUS IoT,PE3000N,13,component_cards/CMP-EGC-0066.md,listed,needs SKU verification,pending,pending,Jetson Thor integrated GPU; exact module SKU and revision pending
+CMP-EGC-0067,ASUS IoT,PE1103N,13,component_cards/CMP-EGC-0067.md,listed,needs SKU verification,pending,pending,Orin NX/Nano family; selected SoM and GMSL expansion must be verified
+CMP-EGC-0068,ASUS IoT,PE1102N,13,component_cards/CMP-EGC-0068.md,listed,needs SKU verification,pending,pending,Orin NX/Nano family; exact configuration and I/O must be verified
+CMP-EGC-0069,ASUS IoT,PE1100N V2,13,component_cards/CMP-EGC-0069.md,listed,needs SKU verification,pending,pending,V2 distinct from PE1100N; verify revision and SoM
+CMP-EGC-0070,ASUS IoT,PE2100N,13,component_cards/CMP-EGC-0070.md,listed,needs SKU verification,pending,pending,AGX Orin configuration and PoE capabilities require SKU validation
+CMP-EGC-0071,AAEON,BOXER-8655AI,14,component_cards/CMP-EGC-0071.md,listed,needs SKU verification,pending,pending,8GB/16GB SKU selection and GMSL2 camera interoperability require validation
+CMP-EGC-0072,AAEON,BOXER-8658AI,14,component_cards/CMP-EGC-0072.md,listed,needs SKU verification,pending,pending,"Verify PoE power budget, 8GB/16GB ordering SKU and lifecycle"
+CMP-EGC-0073,AAEON,BOXER-8658AI-PLUS,14,component_cards/CMP-EGC-0073.md,listed,needs SKU verification,pending,pending,2025 manufacturer catalog identity only; PLUS distinctions and exact SKU require primary product datasheet
+CMP-EGC-0074,Advantech,MIB-741-AT,14,component_cards/CMP-EGC-0074.md,listed,needs SKU verification,pending,pending,"Confirm orderable SKU, GMSL2 accessories and current lifecycle"
+CMP-EGC-0075,Advantech,MIC-741-AT,14,component_cards/CMP-EGC-0075.md,listed,needs SKU verification,pending,pending,"Linked in manufacturer product-family navigation; exact product page, specs and SKU require verification"
+CMP-EGC-0076,ADLINK,DLAP-701,15,component_cards/CMP-EGC-0076.md,listed,needs SKU verification,pending,pending,"Confirm orderable Jetson T5000/T4000 SKU, thermal profile and software image"
+CMP-EGC-0077,ADLINK,DLAP-711 Series,15,component_cards/CMP-EGC-0077.md,listed,needs SKU verification,pending,pending,"Manufacturer labels preliminary; confirm release, GMSL2 module and orderable SKU"
+CMP-EGC-0078,ADLINK,DLAP-IGX,15,component_cards/CMP-EGC-0078.md,listed,needs SKU verification,pending,pending,"Manufacturer labels preliminary; exact system identity, released SKU and lifecycle pending"
+CMP-EGC-0079,ADLINK,DLAP-401-Xavier,15,component_cards/CMP-EGC-0079.md,listed,needs SKU verification,pending,pending,Manufacturer marks END OF LIFE; exact SKU and retirement/replacement details require verification
+CMP-EGC-0080,ADLINK,RQX-71G,15,component_cards/CMP-EGC-0080.md,listed,needs SKU verification,pending,pending,"Manufacturer labels preliminary; verify controller availability, interfaces and orderable SKU"

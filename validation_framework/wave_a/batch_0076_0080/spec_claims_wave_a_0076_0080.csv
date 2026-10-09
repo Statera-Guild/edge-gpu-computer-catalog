@@ -1,0 +1,11 @@
+claim_id,component_id,claim_field,claim_value,source_id,verification_status,scope,review_note
+CLM-EGC-0076-01,CMP-EGC-0076,product_identity,DLAP-701,SRC-EGC-0076-01,manufacturer_claim,family,Exact SKU and current lifecycle pending
+CLM-EGC-0076-02,CMP-EGC-0076,compute_platform,NVIDIA Jetson Thor T5000/T4000 compact edge AI computer,SRC-EGC-0076-01,manufacturer_claim,family,No physical verification or measured performance
+CLM-EGC-0077-01,CMP-EGC-0077,product_identity,DLAP-711 Series,SRC-EGC-0077-01,manufacturer_claim,family,Exact SKU and current lifecycle pending
+CLM-EGC-0077-02,CMP-EGC-0077,compute_platform,NVIDIA Jetson Thor robotics edge AI platform with GMSL2 interfaces,SRC-EGC-0077-01,manufacturer_claim,family,No physical verification or measured performance
+CLM-EGC-0078-01,CMP-EGC-0078,product_identity,DLAP-IGX,SRC-EGC-0078-01,manufacturer_claim,family,Exact SKU and current lifecycle pending
+CLM-EGC-0078-02,CMP-EGC-0078,compute_platform,NVIDIA IGX Thor industrial edge AI platform,SRC-EGC-0078-01,manufacturer_claim,family,No physical verification or measured performance
+CLM-EGC-0079-01,CMP-EGC-0079,product_identity,DLAP-401-Xavier,SRC-EGC-0079-01,manufacturer_claim,family,Manufacturer marks END OF LIFE; historical SKU and EOL date pending
+CLM-EGC-0079-02,CMP-EGC-0079,compute_platform,NVIDIA Jetson AGX Xavier fanless edge AI inference platform,SRC-EGC-0079-01,manufacturer_claim,family,No physical verification or measured performance
+CLM-EGC-0080-01,CMP-EGC-0080,product_identity,RQX-71G,SRC-EGC-0080-01,manufacturer_claim,family,Exact SKU and current lifecycle pending
+CLM-EGC-0080-02,CMP-EGC-0080,compute_platform,NVIDIA Jetson Thor robotic edge AI controller platform,SRC-EGC-0080-01,manufacturer_claim,family,No physical verification or measured performance

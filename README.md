@@ -4,7 +4,8 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 
 ## Catalog navigation
 
-- [Master Catalog — 0001–0075](validation_framework/integration/master_catalog_0001_0075.csv) (current index)
+- [Master Catalog — 0001–0080](validation_framework/integration/master_catalog_0001_0080.csv) (current index)
+- [Previous Master Catalog — 0001–0075](validation_framework/integration/master_catalog_0001_0075.csv) (historical snapshot)
 - [Previous Master Catalog — 0001–0070](validation_framework/integration/master_catalog_0001_0070.csv) (historical snapshot)
 - [Previous Master Catalog — 0001–0065](validation_framework/integration/master_catalog_0001_0065.csv) (historical snapshot)
 - [Previous Master Catalog — 0001–0060](validation_framework/integration/master_catalog_0001_0060.csv) (historical snapshot)
@@ -25,11 +26,12 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 - [Wave 12 evidence — 0061–0065](validation_framework/wave_a/batch_0061_0065/README.md)
 - [Wave 13 evidence — 0066–0070](validation_framework/wave_a/batch_0066_0070/README.md)
 - [Wave 14 evidence — 0071–0075](validation_framework/wave_a/batch_0071_0075/README.md)
+- [Wave 15 evidence — 0076–0080](validation_framework/wave_a/batch_0076_0080/README.md)
 - [Component Card schema](COMPONENT_CARD_SCHEMA.md)
 - [Evidence policy](validation_framework/docs/EVIDENCE_POLICY.md)
 - [Related Edge AI Module Catalog](https://github.com/Statera-Guild/edge-device-catalog)
 
-## Product index (75 records; Wave 1–14)
+## Product index (80 records; Wave 1–15)
 
 | Component ID | Manufacturer | Product / family | Public status | Component Card |
 |---|---|---|---|---|
@@ -109,6 +111,11 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 | `CMP-EGC-0073` | AAEON | BOXER-8658AI-PLUS | listed | [View](component_cards/CMP-EGC-0073.md) |
 | `CMP-EGC-0074` | Advantech | MIB-741-AT | listed | [View](component_cards/CMP-EGC-0074.md) |
 | `CMP-EGC-0075` | Advantech | MIC-741-AT | listed | [View](component_cards/CMP-EGC-0075.md) |
+| `CMP-EGC-0076` | ADLINK | DLAP-701 | listed | [View](component_cards/CMP-EGC-0076.md) |
+| `CMP-EGC-0077` | ADLINK | DLAP-711 Series | listed | [View](component_cards/CMP-EGC-0077.md) |
+| `CMP-EGC-0078` | ADLINK | DLAP-IGX | listed | [View](component_cards/CMP-EGC-0078.md) |
+| `CMP-EGC-0079` | ADLINK | DLAP-401-Xavier | listed | [View](component_cards/CMP-EGC-0079.md) |
+| `CMP-EGC-0080` | ADLINK | RQX-71G | listed | [View](component_cards/CMP-EGC-0080.md) |
 
 ## Scope and status
 
@@ -133,6 +140,8 @@ Wave 12 adds ASUS IoT GPU-capable systems; GPU installation, exact SKU, lifecycl
 Wave 13 adds ASUS IoT Jetson integrated-GPU systems. Exact SKU, lifecycle and algorithm performance require validation. Cross-wave identity audit is pending; RUC-1000G is listed under two existing Component IDs (0019 and 0065).
 
 Wave 14 adds AAEON and Advantech Jetson systems. SKU, lifecycle, evidence and algorithm verification remain pending. Known cross-wave RUC-1000G duplicate model names (0019 and 0065) require identity audit.
+
+**Catalog expansion freeze:** Wave 15 concludes registration at 80 Component IDs. Unique IDs do not imply 80 distinct orderable SKUs; manufacturer identity, duplicates, evidence, lifecycle and on-device algorithm compatibility remain under audit. Known RUC-1000G duplicate IDs: 0019 and 0065.
 
 ## Validation and contribution
 

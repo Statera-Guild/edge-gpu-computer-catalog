@@ -1,0 +1,51 @@
+component_id,algorithm,compatibility_status,test_status,evidence_note,next_action
+CMP-EGC-0076,YOLO object detection,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0076,DETR object detection,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0076,Semantic segmentation,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0076,Instance segmentation,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0076,Multi-object tracking,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0076,Video Transformer,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0076,Visual SLAM,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0076,Vision-language model,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0076,World model inference,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0076,ROS 2 perception integration,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0077,YOLO object detection,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0077,DETR object detection,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0077,Semantic segmentation,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0077,Instance segmentation,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0077,Multi-object tracking,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0077,Video Transformer,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0077,Visual SLAM,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0077,Vision-language model,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0077,World model inference,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0077,ROS 2 perception integration,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0078,YOLO object detection,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0078,DETR object detection,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0078,Semantic segmentation,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0078,Instance segmentation,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0078,Multi-object tracking,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0078,Video Transformer,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0078,Visual SLAM,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0078,Vision-language model,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0078,World model inference,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0078,ROS 2 perception integration,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0079,YOLO object detection,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0079,DETR object detection,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0079,Semantic segmentation,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0079,Instance segmentation,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0079,Multi-object tracking,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0079,Video Transformer,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0079,Visual SLAM,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0079,Vision-language model,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0079,World model inference,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0079,ROS 2 perception integration,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0080,YOLO object detection,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0080,DETR object detection,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0080,Semantic segmentation,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0080,Instance segmentation,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0080,Multi-object tracking,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0080,Video Transformer,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0080,Visual SLAM,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0080,Vision-language model,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0080,World model inference,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
+CMP-EGC-0080,ROS 2 perception integration,candidate,not_tested,Manufacturer GPU platform only; no PAI-SG on-device evidence,Confirm exact SKU/software and perform reproducible tests
