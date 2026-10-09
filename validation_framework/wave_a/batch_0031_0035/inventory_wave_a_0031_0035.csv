@@ -1,0 +1,6 @@
+component_id,manufacturer,product_name,status,record_scope,card_path,platform,source_type,official_source
+CMP-EGC-0031,AAEON,BOXER-8640AI,listed,family,component_cards/CMP-EGC-0031.md,Jetson AGX Orin 32GB,manufacturer_announcement,https://www.aaeon.com/en/news/detail/ces-orin-product-announcement
+CMP-EGC-0032,AAEON,BOXER-8645AI,listed,family,component_cards/CMP-EGC-0032.md,Jetson AGX Orin,manufacturer_announcement,https://www.aaeon.com/jp/news/detail/gtc-2023
+CMP-EGC-0033,AAEON,BOXER-8646AI,listed,family,component_cards/CMP-EGC-0033.md,Jetson AGX Orin,manufacturer_announcement,https://www.aaeon.com/en/news/detail/ces-orin-product-announcement
+CMP-EGC-0034,AAEON,BOXER-8651AI-PLUS,listed,family,component_cards/CMP-EGC-0034.md,Jetson Orin NX,manufacturer_catalog,https://www.aaeon.com/tw/product/list/aaeon-nvidia-ai-solutions
+CMP-EGC-0035,AAEON,BOXER-8652AI-PLUS,listed,family,component_cards/CMP-EGC-0035.md,Jetson Orin NX,manufacturer_catalog,https://www.aaeon.com/tw/product/list/aaeon-nvidia-ai-solutions

@@ -4,14 +4,16 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 
 ## Catalog navigation
 
-- [Master Catalog — 0001–0025](validation_framework/integration/master_catalog_0001_0025.csv) (integration patch; requires commit)
-- [Master integration review queue](validation_framework/integration/review_queue_0001_0025.csv) (integration patch; requires commit)
+- [Master Catalog — 0001–0035](validation_framework/integration/master_catalog_0001_0035.csv) (current index)
+- [Previous Master Catalog — 0001–0025](validation_framework/integration/master_catalog_0001_0025.csv) (historical snapshot)
+- [Master integration review queue](validation_framework/integration/review_queue_0001_0025.csv) (initial 25-record review queue)
 - [Wave 5 evidence — 0026–0030](validation_framework/wave_a/batch_0026_0030/README.md)
+- [Wave 6 evidence — 0031–0035](validation_framework/wave_a/batch_0031_0035/README.md)
 - [Component Card schema](COMPONENT_CARD_SCHEMA.md)
 - [Evidence policy](validation_framework/docs/EVIDENCE_POLICY.md)
 - [Related Edge AI Module Catalog](https://github.com/Statera-Guild/edge-device-catalog)
 
-## Product index (30 records; Wave 5 pending merge)
+## Product index (35 records; Wave 1–6)
 
 | Component ID | Manufacturer | Product / family | Public status | Component Card |
 |---|---|---|---|---|
@@ -45,17 +47,24 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 | `CMP-EGC-0028` | AAEON | BOXER-8741AI | listed | [View](component_cards/CMP-EGC-0028.md) |
 | `CMP-EGC-0029` | AAEON | BOXER-6845-BTL | listed | [View](component_cards/CMP-EGC-0029.md) |
 | `CMP-EGC-0030` | AAEON | BOXER-8653AI-PLUS | listed | [View](component_cards/CMP-EGC-0030.md) |
+| `CMP-EGC-0031` | AAEON | BOXER-8640AI | listed | [View](component_cards/CMP-EGC-0031.md) |
+| `CMP-EGC-0032` | AAEON | BOXER-8645AI | listed | [View](component_cards/CMP-EGC-0032.md) |
+| `CMP-EGC-0033` | AAEON | BOXER-8646AI | listed | [View](component_cards/CMP-EGC-0033.md) |
+| `CMP-EGC-0034` | AAEON | BOXER-8651AI-PLUS | listed | [View](component_cards/CMP-EGC-0034.md) |
+| `CMP-EGC-0035` | AAEON | BOXER-8652AI-PLUS | listed | [View](component_cards/CMP-EGC-0035.md) |
 
 ## Scope and status
 
-`EGC` refers to integrated computers, not standalone GPU cards or SOMs. Jetson SOMs are managed as `EAM` in the separate Edge AI Module Catalog. A product *family* is not a verified orderable SKU; a modular host-plus-expansion configuration must be labeled as such. The 0025 entry is such a configuration, not an independent GPU module system.
+`EGC` refers to integrated computers, not standalone GPU cards or SOMs. Jetson SOMs are managed as `EAM` in the separate Edge AI Module Catalog. A product family is not a verified orderable SKU; modular host-plus-expansion configurations must be labeled as such. Entry 0025 is such a composite configuration.
 
-Public card statuses are `listed` or `documented` only. Workload compatibility evidence uses `candidate`, `vendor_claim`, `reproduced`, `failed`, or `unknown`, and is not equivalent to public card status. **No independent PAI-SG hardware benchmark is asserted by this index.** GPU support wattage is not whole-system measured consumption; Jetson LPDDR shared memory is not dedicated discrete VRAM.
+Public card statuses are `listed` or `documented` only. Workload compatibility uses `candidate`, `vendor_claim`, `reproduced`, `failed`, or `unknown`. **No independent PAI-SG hardware benchmark is asserted by this index.** GPU support wattage is not measured system power; Jetson LPDDR shared memory is not discrete GPU VRAM.
 
-Graph edges such as `USES_MODULE` and `SUPPORTS_ALGORITHM` are provisional until reconciliation with PAI-SG S03. Manufacturer claims and uncertainty may be public; restricted supplier terms, BOM, private architecture, and confidential tests remain in private Core SSOT.
+Manufacturer product catalog indicates a discontinuation notice for BOXER-8645AI (0032); lifecycle must be verified before procurement. All exact SKUs and supplier availability require confirmation.
+
+Graph edges such as `USES_MODULE` and `SUPPORTS_ALGORITHM` are provisional until reconciliation with PAI-SG S03. Confidential BOM, restricted supplier terms, private architecture and tests remain in private Core SSOT.
 
 ## Validation and contribution
 
-Each new claim should carry a manufacturer source URL, claim scope, and unresolved SKU/variant assumptions. Use `validation_framework/wave_a/` for batch-level provenance, and `validation_framework/integration/` for master-level reconciliation. Do not upgrade a card to `documented` based on a product announcement alone.
+Each claim requires source provenance and SKU/variant scope. See `validation_framework/wave_a/` for batch-level evidence and `validation_framework/integration/` for master reconciliation. Do not upgrade status based on announcements alone.
 
-Last index update: 2026-10-09. **Commit the 25-record integration patch and Wave 5 together; after merge the public index will contain 30 entries.**
+Last index update: 2026-10-09.
