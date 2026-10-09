@@ -1,0 +1,172 @@
+[
+  {
+    "component_id": "CMP-EGC-0001",
+    "guild": "CMP",
+    "class": "EGC",
+    "manufacturer": "Advantech",
+    "product_name": "MIC-733-AO",
+    "exact_part_number": "unknown",
+    "record_scope": "family",
+    "status": "listed",
+    "source_urls": [
+      "https://www.advantech.com/en-us/products/965e4edb-fb98-429e-89ed-9a0a8435a7be/mic-733/mod_09861425-4950-46ab-ad39-1b5522881218"
+    ],
+    "last_reviewed": "2026-10-09",
+    "uses_module_ref": "CMP-EAM-0003",
+    "card_path": "component_cards/CMP-EGC-0001.md",
+    "provenance_scope": "manufacturer product page; product options may vary"
+  },
+  {
+    "component_id": "CMP-EGC-0002",
+    "guild": "CMP",
+    "class": "EGC",
+    "manufacturer": "Advantech",
+    "product_name": "MIC-711-OX",
+    "exact_part_number": "unknown",
+    "record_scope": "family",
+    "status": "listed",
+    "source_urls": [
+      "https://www.advantech.com/en-us/products/9140b94e-bcfa-4aa4-8df2-1145026ad613/mic-711-ox/mod_8d98899a-4d65-43e6-8ba8-d2ffc24f463f"
+    ],
+    "last_reviewed": "2026-10-09",
+    "uses_module_ref": "CMP-EAM-0002",
+    "card_path": "component_cards/CMP-EGC-0002.md",
+    "provenance_scope": "manufacturer product page; product options may vary"
+  },
+  {
+    "component_id": "CMP-EGC-0003",
+    "guild": "CMP",
+    "class": "EGC",
+    "manufacturer": "AAEON",
+    "product_name": "BOXER-8641AI",
+    "exact_part_number": "unknown",
+    "record_scope": "family",
+    "status": "listed",
+    "source_urls": [
+      "https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8641ai"
+    ],
+    "last_reviewed": "2026-10-09",
+    "uses_module_ref": "CMP-EAM-0003",
+    "card_path": "component_cards/CMP-EGC-0003.md",
+    "provenance_scope": "manufacturer product page; product options may vary"
+  },
+  {
+    "component_id": "CMP-EGC-0004",
+    "guild": "CMP",
+    "class": "EGC",
+    "manufacturer": "AAEON",
+    "product_name": "BOXER-8641AI-PLUS",
+    "exact_part_number": "unknown",
+    "record_scope": "family",
+    "status": "listed",
+    "source_urls": [
+      "https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8641ai-plus/specification"
+    ],
+    "last_reviewed": "2026-10-09",
+    "uses_module_ref": "CMP-EAM-0003",
+    "card_path": "component_cards/CMP-EGC-0004.md",
+    "provenance_scope": "manufacturer product page; product options may vary"
+  },
+  {
+    "component_id": "CMP-EGC-0005",
+    "guild": "CMP",
+    "class": "EGC",
+    "manufacturer": "AAEON",
+    "product_name": "BOXER-8653AI",
+    "exact_part_number": "unknown",
+    "record_scope": "family",
+    "status": "listed",
+    "source_urls": [
+      "https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8653ai/specification"
+    ],
+    "last_reviewed": "2026-10-09",
+    "uses_module_ref": "CMP-EAM-0002",
+    "card_path": "component_cards/CMP-EGC-0005.md",
+    "provenance_scope": "manufacturer product page; product options may vary"
+  },
+  {
+    "component_id": "CMP-EGC-0006",
+    "guild": "CMP",
+    "class": "EGC",
+    "manufacturer": "ADLINK",
+    "product_name": "DLAP-411-Orin",
+    "exact_part_number": "unknown",
+    "record_scope": "family",
+    "status": "listed",
+    "source_urls": [
+      "https://www.adlinktech.com/products/deep_learning_accelerator_platform_and_server/inference_platform/dlap-411-orin"
+    ],
+    "last_reviewed": "2026-10-09",
+    "uses_module_ref": "CMP-EAM-0003",
+    "card_path": "component_cards/CMP-EGC-0006.md",
+    "provenance_scope": "manufacturer product page; product options may vary"
+  },
+  {
+    "component_id": "CMP-EGC-0007",
+    "guild": "CMP",
+    "class": "EGC",
+    "manufacturer": "ADLINK",
+    "product_name": "DLAP-411-Orin Supreme",
+    "exact_part_number": "unknown",
+    "record_scope": "family",
+    "status": "listed",
+    "source_urls": [
+      "https://www.adlinktech.com/products/Deep_Learning_Accelerator_Platform_and_Server/Inference_Platform/DLAP-411-Orin_Supreme"
+    ],
+    "last_reviewed": "2026-10-09",
+    "uses_module_ref": "CMP-EAM-0003",
+    "card_path": "component_cards/CMP-EGC-0007.md",
+    "provenance_scope": "manufacturer product page; product options may vary"
+  },
+  {
+    "component_id": "CMP-EGC-0008",
+    "guild": "CMP",
+    "class": "EGC",
+    "manufacturer": "ADLINK",
+    "product_name": "DLAP-211-Orin Series",
+    "exact_part_number": "unknown",
+    "record_scope": "family",
+    "status": "listed",
+    "source_urls": [
+      "https://www.adlinktech.com/products/deep_learning_accelerator_platform_and_server/inference_platform/dlap-211-orin_series"
+    ],
+    "last_reviewed": "2026-10-09",
+    "uses_module_ref": "CMP-EAM-0002",
+    "card_path": "component_cards/CMP-EGC-0008.md",
+    "provenance_scope": "manufacturer product page; product options may vary"
+  },
+  {
+    "component_id": "CMP-EGC-0009",
+    "guild": "CMP",
+    "class": "EGC",
+    "manufacturer": "ADLINK",
+    "product_name": "DLAP-211-Orin NX 16GB",
+    "exact_part_number": "unknown",
+    "record_scope": "configuration",
+    "status": "listed",
+    "source_urls": [
+      "https://www.adlinktech.com/products/deep_learning_accelerator_platform_and_server/inference_platform/dlap-211-orin_series"
+    ],
+    "last_reviewed": "2026-10-09",
+    "uses_module_ref": "CMP-EAM-0002",
+    "card_path": "component_cards/CMP-EGC-0009.md",
+    "provenance_scope": "manufacturer product page; product options may vary"
+  },
+  {
+    "component_id": "CMP-EGC-0010",
+    "guild": "CMP",
+    "class": "EGC",
+    "manufacturer": "Advantech",
+    "product_name": "MIC-736",
+    "exact_part_number": "unknown",
+    "record_scope": "family",
+    "status": "listed",
+    "source_urls": [
+      "https://www.advantech.com/emt/products/965e4edb-fb98-429e-89ed-9a0a8435a7be/mic-736/mod_9d9da3ab-4601-47b4-8d46-69fb8ba1401f"
+    ],
+    "last_reviewed": "2026-10-09",
+    "uses_module_ref": "CMP-EAM-0003",
+    "card_path": "component_cards/CMP-EGC-0010.md",
+    "provenance_scope": "manufacturer product page; product options may vary"
+  }
+]

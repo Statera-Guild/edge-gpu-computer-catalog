@@ -1,0 +1,17 @@
+{
+  "test_id": "EGC-TEST-XXXX",
+  "component_id": "CMP-EGC-XXXX",
+  "model_and_sha256": "unknown",
+  "dataset_version": "unknown",
+  "hardware_variant": "unknown",
+  "os_bsp_runtime_versions": "unknown",
+  "power_mode": "unknown",
+  "measurement_protocol": "unknown",
+  "latency_ms_p50": null,
+  "latency_ms_p95": null,
+  "throughput_fps": null,
+  "system_dc_input_w": null,
+  "thermal_conditions": "unknown",
+  "evidence_log_digest": "unknown",
+  "public_evidence_allowed": false
+}

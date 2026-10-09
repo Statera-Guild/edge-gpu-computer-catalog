@@ -1,0 +1,92 @@
+[
+  {
+    "source_id": "EGC-SRC-0001",
+    "manufacturer": "Advantech",
+    "document_type": "official_product_page",
+    "url": "https://www.advantech.com/en-us/products/965e4edb-fb98-429e-89ed-9a0a8435a7be/mic-733/mod_09861425-4950-46ab-ad39-1b5522881218",
+    "accessed_date": "2026-10-09",
+    "revision": "unknown",
+    "document_hash": "not_captured"
+  },
+  {
+    "source_id": "EGC-SRC-0002",
+    "manufacturer": "Advantech",
+    "document_type": "official_product_page",
+    "url": "https://www.advantech.com/en-us/products/9140b94e-bcfa-4aa4-8df2-1145026ad613/mic-711-ox/mod_8d98899a-4d65-43e6-8ba8-d2ffc24f463f",
+    "accessed_date": "2026-10-09",
+    "revision": "unknown",
+    "document_hash": "not_captured"
+  },
+  {
+    "source_id": "EGC-SRC-0003",
+    "manufacturer": "AAEON",
+    "document_type": "official_product_page",
+    "url": "https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8641ai",
+    "accessed_date": "2026-10-09",
+    "revision": "unknown",
+    "document_hash": "not_captured"
+  },
+  {
+    "source_id": "EGC-SRC-0004",
+    "manufacturer": "AAEON",
+    "document_type": "official_product_page",
+    "url": "https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8641ai-plus/specification",
+    "accessed_date": "2026-10-09",
+    "revision": "unknown",
+    "document_hash": "not_captured"
+  },
+  {
+    "source_id": "EGC-SRC-0005",
+    "manufacturer": "AAEON",
+    "document_type": "official_product_page",
+    "url": "https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8653ai/specification",
+    "accessed_date": "2026-10-09",
+    "revision": "unknown",
+    "document_hash": "not_captured"
+  },
+  {
+    "source_id": "EGC-SRC-0006",
+    "manufacturer": "ADLINK",
+    "document_type": "official_product_page",
+    "url": "https://www.adlinktech.com/products/deep_learning_accelerator_platform_and_server/inference_platform/dlap-411-orin",
+    "accessed_date": "2026-10-09",
+    "revision": "unknown",
+    "document_hash": "not_captured"
+  },
+  {
+    "source_id": "EGC-SRC-0007",
+    "manufacturer": "ADLINK",
+    "document_type": "official_product_page",
+    "url": "https://www.adlinktech.com/products/Deep_Learning_Accelerator_Platform_and_Server/Inference_Platform/DLAP-411-Orin_Supreme",
+    "accessed_date": "2026-10-09",
+    "revision": "unknown",
+    "document_hash": "not_captured"
+  },
+  {
+    "source_id": "EGC-SRC-0008",
+    "manufacturer": "ADLINK",
+    "document_type": "official_product_page",
+    "url": "https://www.adlinktech.com/products/deep_learning_accelerator_platform_and_server/inference_platform/dlap-211-orin_series",
+    "accessed_date": "2026-10-09",
+    "revision": "unknown",
+    "document_hash": "not_captured"
+  },
+  {
+    "source_id": "EGC-SRC-0009",
+    "manufacturer": "ADLINK",
+    "document_type": "official_product_page",
+    "url": "https://www.adlinktech.com/products/deep_learning_accelerator_platform_and_server/inference_platform/dlap-211-orin_series",
+    "accessed_date": "2026-10-09",
+    "revision": "unknown",
+    "document_hash": "not_captured"
+  },
+  {
+    "source_id": "EGC-SRC-0010",
+    "manufacturer": "Advantech",
+    "document_type": "official_product_page",
+    "url": "https://www.advantech.com/emt/products/965e4edb-fb98-429e-89ed-9a0a8435a7be/mic-736/mod_9d9da3ab-4601-47b4-8d46-69fb8ba1401f",
+    "accessed_date": "2026-10-09",
+    "revision": "unknown",
+    "document_hash": "not_captured"
+  }
+]

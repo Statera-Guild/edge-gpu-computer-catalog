@@ -1,0 +1,82 @@
+[
+  {
+    "subject_id": "CMP-EGC-0001",
+    "predicate": "USES_MODULE",
+    "object_id": "CMP-EAM-0003",
+    "predicate_status": "proposed",
+    "link_scope": "module family, verify exact variant",
+    "source_id": "EGC-SRC-0001"
+  },
+  {
+    "subject_id": "CMP-EGC-0002",
+    "predicate": "USES_MODULE",
+    "object_id": "CMP-EAM-0002",
+    "predicate_status": "proposed",
+    "link_scope": "module family, verify exact variant",
+    "source_id": "EGC-SRC-0002"
+  },
+  {
+    "subject_id": "CMP-EGC-0003",
+    "predicate": "USES_MODULE",
+    "object_id": "CMP-EAM-0003",
+    "predicate_status": "proposed",
+    "link_scope": "module family, verify exact variant",
+    "source_id": "EGC-SRC-0003"
+  },
+  {
+    "subject_id": "CMP-EGC-0004",
+    "predicate": "USES_MODULE",
+    "object_id": "CMP-EAM-0003",
+    "predicate_status": "proposed",
+    "link_scope": "module family, verify exact variant",
+    "source_id": "EGC-SRC-0004"
+  },
+  {
+    "subject_id": "CMP-EGC-0005",
+    "predicate": "USES_MODULE",
+    "object_id": "CMP-EAM-0002",
+    "predicate_status": "proposed",
+    "link_scope": "module family, verify exact variant",
+    "source_id": "EGC-SRC-0005"
+  },
+  {
+    "subject_id": "CMP-EGC-0006",
+    "predicate": "USES_MODULE",
+    "object_id": "CMP-EAM-0003",
+    "predicate_status": "proposed",
+    "link_scope": "module family, verify exact variant",
+    "source_id": "EGC-SRC-0006"
+  },
+  {
+    "subject_id": "CMP-EGC-0007",
+    "predicate": "USES_MODULE",
+    "object_id": "CMP-EAM-0003",
+    "predicate_status": "proposed",
+    "link_scope": "module family, verify exact variant",
+    "source_id": "EGC-SRC-0007"
+  },
+  {
+    "subject_id": "CMP-EGC-0008",
+    "predicate": "USES_MODULE",
+    "object_id": "CMP-EAM-0002",
+    "predicate_status": "proposed",
+    "link_scope": "module family, verify exact variant",
+    "source_id": "EGC-SRC-0008"
+  },
+  {
+    "subject_id": "CMP-EGC-0009",
+    "predicate": "USES_MODULE",
+    "object_id": "CMP-EAM-0002",
+    "predicate_status": "proposed",
+    "link_scope": "module family, verify exact variant",
+    "source_id": "EGC-SRC-0009"
+  },
+  {
+    "subject_id": "CMP-EGC-0010",
+    "predicate": "USES_MODULE",
+    "object_id": "CMP-EAM-0003",
+    "predicate_status": "proposed",
+    "link_scope": "module family, verify exact variant",
+    "source_id": "EGC-SRC-0010"
+  }
+]

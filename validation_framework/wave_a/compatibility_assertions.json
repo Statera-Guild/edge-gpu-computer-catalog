@@ -1,0 +1,92 @@
+[
+  {
+    "assertion_id": "EGC-COMP-0001",
+    "component_id": "CMP-EGC-0001",
+    "algorithm": "slam",
+    "evidence_state": "unknown",
+    "source_ids": [],
+    "test_id": null,
+    "notes": "ROS 2/SLAM not executed. Evaluate software and camera+LiDAR integration."
+  },
+  {
+    "assertion_id": "EGC-COMP-0002",
+    "component_id": "CMP-EGC-0002",
+    "algorithm": "slam",
+    "evidence_state": "unknown",
+    "source_ids": [],
+    "test_id": null,
+    "notes": "ROS 2/SLAM not executed. Evaluate software and camera+LiDAR integration."
+  },
+  {
+    "assertion_id": "EGC-COMP-0003",
+    "component_id": "CMP-EGC-0003",
+    "algorithm": "slam",
+    "evidence_state": "unknown",
+    "source_ids": [],
+    "test_id": null,
+    "notes": "ROS 2/SLAM not executed. Evaluate software and camera+LiDAR integration."
+  },
+  {
+    "assertion_id": "EGC-COMP-0004",
+    "component_id": "CMP-EGC-0004",
+    "algorithm": "slam",
+    "evidence_state": "unknown",
+    "source_ids": [],
+    "test_id": null,
+    "notes": "ROS 2/SLAM not executed. Evaluate software and camera+LiDAR integration."
+  },
+  {
+    "assertion_id": "EGC-COMP-0005",
+    "component_id": "CMP-EGC-0005",
+    "algorithm": "slam",
+    "evidence_state": "unknown",
+    "source_ids": [],
+    "test_id": null,
+    "notes": "ROS 2/SLAM not executed. Evaluate software and camera+LiDAR integration."
+  },
+  {
+    "assertion_id": "EGC-COMP-0006",
+    "component_id": "CMP-EGC-0006",
+    "algorithm": "slam",
+    "evidence_state": "unknown",
+    "source_ids": [],
+    "test_id": null,
+    "notes": "ROS 2/SLAM not executed. Evaluate software and camera+LiDAR integration."
+  },
+  {
+    "assertion_id": "EGC-COMP-0007",
+    "component_id": "CMP-EGC-0007",
+    "algorithm": "slam",
+    "evidence_state": "unknown",
+    "source_ids": [],
+    "test_id": null,
+    "notes": "ROS 2/SLAM not executed. Evaluate software and camera+LiDAR integration."
+  },
+  {
+    "assertion_id": "EGC-COMP-0008",
+    "component_id": "CMP-EGC-0008",
+    "algorithm": "slam",
+    "evidence_state": "unknown",
+    "source_ids": [],
+    "test_id": null,
+    "notes": "ROS 2/SLAM not executed. Evaluate software and camera+LiDAR integration."
+  },
+  {
+    "assertion_id": "EGC-COMP-0009",
+    "component_id": "CMP-EGC-0009",
+    "algorithm": "slam",
+    "evidence_state": "unknown",
+    "source_ids": [],
+    "test_id": null,
+    "notes": "ROS 2/SLAM not executed. Evaluate software and camera+LiDAR integration."
+  },
+  {
+    "assertion_id": "EGC-COMP-0010",
+    "component_id": "CMP-EGC-0010",
+    "algorithm": "slam",
+    "evidence_state": "unknown",
+    "source_ids": [],
+    "test_id": null,
+    "notes": "ROS 2/SLAM not executed. Evaluate software and camera+LiDAR integration."
+  }
+]

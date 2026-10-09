@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AlgorithmCompatibilityAssertion",
+  "type": "object",
+  "required": [
+    "assertion_id",
+    "component_id",
+    "algorithm",
+    "evidence_state",
+    "source_ids"
+  ],
+  "properties": {
+    "assertion_id": {
+      "type": "string"
+    },
+    "component_id": {
+      "pattern": "^CMP-EGC-[0-9]{4}$",
+      "type": "string"
+    },
+    "algorithm": {
+      "enum": [
+        "classification",
+        "yolo_detr_detection",
+        "segmentation",
+        "multi_object_tracking",
+        "visual_odometry",
+        "slam",
+        "video_transformer",
+        "vlm",
+        "vla",
+        "world_model"
+      ]
+    },
+    "evidence_state": {
+      "enum": [
+        "candidate",
+        "vendor_claim",
+        "reproduced",
+        "failed",
+        "unknown"
+      ]
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "test_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

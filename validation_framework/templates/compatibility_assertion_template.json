@@ -1,0 +1,9 @@
+{
+  "assertion_id": "EGC-COMP-XXXX",
+  "component_id": "CMP-EGC-XXXX",
+  "algorithm": "slam",
+  "evidence_state": "unknown",
+  "source_ids": [],
+  "test_id": null,
+  "notes": "Do not infer execution or latency from accelerator availability."
+}
