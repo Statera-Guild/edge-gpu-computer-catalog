@@ -4,16 +4,18 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 
 ## Catalog navigation
 
-- [Master Catalog — 0001–0035](validation_framework/integration/master_catalog_0001_0035.csv) (current index)
+- [Master Catalog — 0001–0040](validation_framework/integration/master_catalog_0001_0040.csv) (current index)
+- [Previous Master Catalog — 0001–0035](validation_framework/integration/master_catalog_0001_0035.csv) (historical snapshot)
 - [Previous Master Catalog — 0001–0025](validation_framework/integration/master_catalog_0001_0025.csv) (historical snapshot)
 - [Master integration review queue](validation_framework/integration/review_queue_0001_0025.csv) (initial 25-record review queue)
 - [Wave 5 evidence — 0026–0030](validation_framework/wave_a/batch_0026_0030/README.md)
 - [Wave 6 evidence — 0031–0035](validation_framework/wave_a/batch_0031_0035/README.md)
+- [Wave 7 evidence — 0036–0040](validation_framework/wave_a/batch_0036_0040/README.md)
 - [Component Card schema](COMPONENT_CARD_SCHEMA.md)
 - [Evidence policy](validation_framework/docs/EVIDENCE_POLICY.md)
 - [Related Edge AI Module Catalog](https://github.com/Statera-Guild/edge-device-catalog)
 
-## Product index (35 records; Wave 1–6)
+## Product index (40 records; Wave 1–7)
 
 | Component ID | Manufacturer | Product / family | Public status | Component Card |
 |---|---|---|---|---|
@@ -52,6 +54,12 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 | `CMP-EGC-0033` | AAEON | BOXER-8646AI | listed | [View](component_cards/CMP-EGC-0033.md) |
 | `CMP-EGC-0034` | AAEON | BOXER-8651AI-PLUS | listed | [View](component_cards/CMP-EGC-0034.md) |
 | `CMP-EGC-0035` | AAEON | BOXER-8652AI-PLUS | listed | [View](component_cards/CMP-EGC-0035.md) |
+
+| `CMP-EGC-0036` | Advantech | MIC-743-AT | listed | [View](component_cards/CMP-EGC-0036.md) |
+| `CMP-EGC-0037` | Advantech | MIC-742-AT | listed | [View](component_cards/CMP-EGC-0037.md) |
+| `CMP-EGC-0038` | Advantech | MIC-713-OX | listed | [View](component_cards/CMP-EGC-0038.md) |
+| `CMP-EGC-0039` | Advantech | MIC-715-OX | listed | [View](component_cards/CMP-EGC-0039.md) |
+| `CMP-EGC-0040` | Advantech | MIC-717-OX | listed | [View](component_cards/CMP-EGC-0040.md) |
 
 ## Scope and status
 

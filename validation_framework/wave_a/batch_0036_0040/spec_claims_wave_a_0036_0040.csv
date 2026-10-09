@@ -1,0 +1,11 @@
+claim_id,component_id,claim_field,claim_value,source_id,verification_status,scope,review_note
+CLM-EGC-0036-01,CMP-EGC-0036,product_identity,MIC-743-AT,SRC-EGC-0036-01,manufacturer_claim,family,model identity
+CLM-EGC-0036-02,CMP-EGC-0036,compute_platform,NVIDIA Jetson Thor T5000 / T4000,SRC-EGC-0036-01,manufacturer_claim,family,exact SKU / module variant to verify
+CLM-EGC-0037-01,CMP-EGC-0037,product_identity,MIC-742-AT,SRC-EGC-0037-01,manufacturer_claim,family,model identity
+CLM-EGC-0037-02,CMP-EGC-0037,compute_platform,NVIDIA Jetson Thor T5000,SRC-EGC-0037-01,manufacturer_claim,family,exact SKU / module variant to verify
+CLM-EGC-0038-01,CMP-EGC-0038,product_identity,MIC-713-OX,SRC-EGC-0038-01,manufacturer_claim,family,model identity
+CLM-EGC-0038-02,CMP-EGC-0038,compute_platform,NVIDIA Jetson Orin NX,SRC-EGC-0038-01,manufacturer_claim,family,exact SKU / module variant to verify
+CLM-EGC-0039-01,CMP-EGC-0039,product_identity,MIC-715-OX,SRC-EGC-0039-01,manufacturer_claim,family,model identity
+CLM-EGC-0039-02,CMP-EGC-0039,compute_platform,NVIDIA Jetson Orin NX,SRC-EGC-0039-01,manufacturer_claim,family,exact SKU / module variant to verify
+CLM-EGC-0040-01,CMP-EGC-0040,product_identity,MIC-717-OX,SRC-EGC-0040-01,manufacturer_claim,family,model identity
+CLM-EGC-0040-02,CMP-EGC-0040,compute_platform,NVIDIA Jetson Orin NX,SRC-EGC-0040-01,manufacturer_claim,family,exact SKU / module variant to verify

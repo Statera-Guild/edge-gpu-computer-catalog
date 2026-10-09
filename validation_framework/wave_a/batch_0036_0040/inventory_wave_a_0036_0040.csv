@@ -1,0 +1,6 @@
+component_id,manufacturer,product_name,status,record_scope,card_path,platform,source_type,official_source
+CMP-EGC-0036,Advantech,MIC-743-AT,listed,family,component_cards/CMP-EGC-0036.md,NVIDIA Jetson Thor T5000 / T4000,manufacturer_product_page,https://www.advantech.com/emt/products/f8c8792f-5837-421d-b268-f40a8fc1e484/mic-743-at/mod_c29865e3-0dd2-4468-8fb8-2ae10add3355
+CMP-EGC-0037,Advantech,MIC-742-AT,listed,family,component_cards/CMP-EGC-0037.md,NVIDIA Jetson Thor T5000,manufacturer_product_page,https://www.advantech.com/en-us/products/f8c8792f-5837-421d-b268-f40a8fc1e484/mic-742%E2%80%8B/mod_79762a8d-c514-4c3f-b391-7f56a995b758
+CMP-EGC-0038,Advantech,MIC-713-OX,listed,family,component_cards/CMP-EGC-0038.md,NVIDIA Jetson Orin NX,manufacturer_product_page,https://www.advantech.com/en-us/products/965e4edb-fb98-429e-89ed-9a0a8435a7be/mic-713-ox/mod_6d301c11-8606-44ce-8179-b31753b59c23
+CMP-EGC-0039,Advantech,MIC-715-OX,listed,family,component_cards/CMP-EGC-0039.md,NVIDIA Jetson Orin NX,manufacturer_product_page,https://www.advantech.com/ko-kr/products/965e4edb-fb98-429e-89ed-9a0a8435a7be/mic-715-ox/mod_97a36574-38e0-40f4-9a80-560bba9413eb
+CMP-EGC-0040,Advantech,MIC-717-OX,listed,family,component_cards/CMP-EGC-0040.md,NVIDIA Jetson Orin NX,manufacturer_product_page,https://gst.advantech.com/products/MIC-717-OX/mod/9782C398-C909-452D-9654-280FD29F50A9
