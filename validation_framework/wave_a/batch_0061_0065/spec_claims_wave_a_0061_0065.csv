@@ -1,0 +1,11 @@
+claim_id,component_id,claim_field,claim_value,source_id,verification_status,scope,review_note
+CLM-EGC-0061-01,CMP-EGC-0061,product_identity,PE3100G,SRC-EGC-0061-01,manufacturer_claim,family,model identity
+CLM-EGC-0061-02,CMP-EGC-0061,compute_platform,Intel Core 13th Gen + optional NVIDIA/Intel MXM GPU,SRC-EGC-0061-01,manufacturer_claim,family,GPU installation and configuration to verify
+CLM-EGC-0062-01,CMP-EGC-0062,product_identity,PE3000G,SRC-EGC-0062-01,manufacturer_claim,family,model identity
+CLM-EGC-0062-02,CMP-EGC-0062,compute_platform,Intel Core 12th Gen + optional NVIDIA/Intel MXM GPU,SRC-EGC-0062-01,manufacturer_claim,family,GPU installation and configuration to verify
+CLM-EGC-0063-01,CMP-EGC-0063,product_identity,PE4000G,SRC-EGC-0063-01,manufacturer_claim,family,model identity
+CLM-EGC-0063-02,CMP-EGC-0063,compute_platform,Intel Core + optional PCIe GPU,SRC-EGC-0063-01,manufacturer_claim,family,GPU installation and configuration to verify
+CLM-EGC-0064-01,CMP-EGC-0064,product_identity,PE5101D,SRC-EGC-0064-01,manufacturer_claim,family,model identity
+CLM-EGC-0064-02,CMP-EGC-0064,compute_platform,Intel Core + optional PCIe graphics card,SRC-EGC-0064-01,manufacturer_claim,family,GPU installation and configuration to verify
+CLM-EGC-0065-01,CMP-EGC-0065,product_identity,RUC-1000G,SRC-EGC-0065-01,manufacturer_claim,family,model identity
+CLM-EGC-0065-02,CMP-EGC-0065,compute_platform,Intel Core Ultra + optional PCIe GPU,SRC-EGC-0065-01,manufacturer_claim,family,GPU installation and configuration to verify

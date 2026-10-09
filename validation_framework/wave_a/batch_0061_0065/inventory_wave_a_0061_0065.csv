@@ -1,0 +1,6 @@
+component_id,manufacturer,product_name,status,record_scope,card_path,platform,source_type,official_source
+CMP-EGC-0061,ASUS IoT,PE3100G,listed,family,component_cards/CMP-EGC-0061.md,Intel Core 13th Gen + optional NVIDIA/Intel MXM GPU,manufacturer_product_page,https://www.asus.com/networking-iot-servers/aiot-industrial-solutions/embedded-computers-edge-ai-systems/pe3100g/
+CMP-EGC-0062,ASUS IoT,PE3000G,listed,family,component_cards/CMP-EGC-0062.md,Intel Core 12th Gen + optional NVIDIA/Intel MXM GPU,manufacturer_product_page,https://www.asus.com/kr/networking-iot-servers/aiot-industrial-solutions/embedded-computers-edge-ai-systems/pe3000g/
+CMP-EGC-0063,ASUS IoT,PE4000G,listed,family,component_cards/CMP-EGC-0063.md,Intel Core + optional PCIe GPU,manufacturer_product_page,https://www.asus.com/kr/networking-iot-servers/aiot-industrial-solutions/embedded-computers-edge-ai-systems/pe4000g/
+CMP-EGC-0064,ASUS IoT,PE5101D,listed,family,component_cards/CMP-EGC-0064.md,Intel Core + optional PCIe graphics card,manufacturer_product_page,https://www.asus.com/content/asus-iot-edge-ai-systems/
+CMP-EGC-0065,ASUS IoT,RUC-1000G,listed,family,component_cards/CMP-EGC-0065.md,Intel Core Ultra + optional PCIe GPU,manufacturer_product_page,https://www.asus.com/kr/networking-iot-servers/aiot-industrial-solutions/embedded-computers-edge-ai-systems/ruc-1000g/
