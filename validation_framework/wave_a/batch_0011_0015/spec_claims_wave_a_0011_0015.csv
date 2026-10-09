@@ -1,0 +1,21 @@
+﻿component_id,field,claimed_value,source_id,evidence_state,review_note
+CMP-EGC-0011,cpu_or_module,Intel 12th/13th/14th Gen Core,EGC-SRC-0011,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0011,gpu_configuration_support,"single discrete NVIDIA RTX GPU, up to 350W GPU support",EGC-SRC-0011,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0011,power_input_headline,8–48V DC; higher load requires >=13.8V,EGC-SRC-0011,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0011,io_headline,3 additional PCIe expansion slots,EGC-SRC-0011,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0012,cpu_or_module,Intel 12th/13th/14th Gen Core,EGC-SRC-0012,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0012,gpu_configuration_support,supports NVIDIA L4 discrete GPU,EGC-SRC-0012,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0012,power_input_headline,unknown,EGC-SRC-0012,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0012,io_headline,dual PCIe slots,EGC-SRC-0012,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0013,cpu_or_module,Intel Xeon E / 8th-9th Gen Core platform,EGC-SRC-0013,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0013,gpu_configuration_support,supports dual NVIDIA L4/T4/A2 discrete GPUs,EGC-SRC-0013,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0013,power_input_headline,unknown,EGC-SRC-0013,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0013,io_headline,dual GPU platform,EGC-SRC-0013,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0014,cpu_or_module,NVIDIA Jetson AGX Orin,EGC-SRC-0014,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0014,gpu_configuration_support,integrated Jetson GPU; shared module memory,EGC-SRC-0014,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0014,power_input_headline,vendor NRU family 8–35V DC; exact model verify,EGC-SRC-0014,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0014,io_headline,8 GMSL2; 1 10GbE; 4 PoE+ GbE; IP66,EGC-SRC-0014,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0015,cpu_or_module,NVIDIA Jetson Orin NX / Nano,EGC-SRC-0015,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0015,gpu_configuration_support,integrated Jetson GPU; shared module memory,EGC-SRC-0015,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0015,power_input_headline,vendor NRU family 8–35V DC; exact model verify,EGC-SRC-0015,vendor_claim_unverified,Exact SKU/datasheet review needed
+CMP-EGC-0015,io_headline,4 PoE+ GbE; IP66,EGC-SRC-0015,vendor_claim_unverified,Exact SKU/datasheet review needed

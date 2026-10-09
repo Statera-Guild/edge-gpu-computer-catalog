@@ -1,0 +1,6 @@
+﻿component_id,manufacturer,product_name,source_id,source_url,source_type,accessed_date,status,scope_note
+CMP-EGC-0011,Neousys Technology,Nuvo-10108GC,EGC-SRC-0011,https://www.neousys-tech.com/ja/product/processor/intel-ipc/intel-14th-13th-12th-gen-core/nuvo-10108gc-intel-13th-350w-rtx-gpu-computing-platform,manufacturer product/family page,2026-10-09,listed,family-level; SKU unresolved
+CMP-EGC-0012,Neousys Technology,Nuvo-9166GC Series,EGC-SRC-0012,https://www.neousys-tech.com/de/product/product-lines/edge-ai-gpu-computing,manufacturer product/family page,2026-10-09,listed,family-level; SKU unresolved
+CMP-EGC-0013,Neousys Technology,Nuvo-8240GC,EGC-SRC-0013,https://www.neousys-tech.com/de/product/product-lines/edge-ai-gpu-computing,manufacturer product/family page,2026-10-09,listed,family-level; SKU unresolved
+CMP-EGC-0014,Neousys Technology,NRU-230V-AWP,EGC-SRC-0014,https://www.neousys-tech.com/de/core-technologies/neousys-nvidia-jetson-rugged-embedded-computers,manufacturer product/family page,2026-10-09,listed,family-level; SKU unresolved
+CMP-EGC-0015,Neousys Technology,NRU-162S-AWP,EGC-SRC-0015,https://www.neousys-tech.com/de/core-technologies/neousys-nvidia-jetson-rugged-embedded-computers,manufacturer product/family page,2026-10-09,listed,family-level; SKU unresolved
