@@ -1,0 +1,6 @@
+component_id,manufacturer,product_name,status,record_scope,card_path,platform,source_type,official_source
+CMP-EGC-0046,Neousys Technology,NRU-220S,listed,family,component_cards/CMP-EGC-0046.md,NVIDIA Jetson AGX Orin,manufacturer_product_page,https://www.neousys-tech.com/en/product/product-lines/edge-ai-gpu-computing/nru-220s-nru-222s
+CMP-EGC-0047,Neousys Technology,NRU-222S,listed,family,component_cards/CMP-EGC-0047.md,NVIDIA Jetson AGX Orin,manufacturer_product_page,https://www.neousys-tech.com/en/product/product-lines/edge-ai-gpu-computing/nru-220s-nru-222s
+CMP-EGC-0048,Neousys Technology,NRU-240S-AWP,listed,family,component_cards/CMP-EGC-0048.md,NVIDIA Jetson AGX Orin,manufacturer_product_page,https://www.neousys-tech.com/product/product-lines/edge-ai-gpu-computing/nru-230v-240s-awp
+CMP-EGC-0049,Neousys Technology,NRU-171V-PPC,listed,family,component_cards/CMP-EGC-0049.md,NVIDIA Jetson Orin NX / Orin Nano,manufacturer_technology_overview,https://www.neousys-tech.com/de/core-technologies/neousys-nvidia-jetson-rugged-embedded-computers
+CMP-EGC-0050,Neousys Technology,NRU-172S-PPC,listed,family,component_cards/CMP-EGC-0050.md,NVIDIA Jetson Orin NX / Orin Nano,manufacturer_technology_overview,https://www.neousys-tech.com/de/core-technologies/neousys-nvidia-jetson-rugged-embedded-computers

@@ -4,7 +4,8 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 
 ## Catalog navigation
 
-- [Master Catalog — 0001–0045](validation_framework/integration/master_catalog_0001_0045.csv) (current index)
+- [Master Catalog — 0001–0050](validation_framework/integration/master_catalog_0001_0050.csv) (current index)
+- [Previous Master Catalog — 0001–0045](validation_framework/integration/master_catalog_0001_0045.csv) (historical snapshot)
 - [Previous Master Catalog — 0001–0040](validation_framework/integration/master_catalog_0001_0040.csv) (historical snapshot)
 - [Previous Master Catalog — 0001–0035](validation_framework/integration/master_catalog_0001_0035.csv) (historical snapshot)
 - [Previous Master Catalog — 0001–0025](validation_framework/integration/master_catalog_0001_0025.csv) (historical snapshot)
@@ -13,11 +14,12 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 - [Wave 6 evidence — 0031–0035](validation_framework/wave_a/batch_0031_0035/README.md)
 - [Wave 7 evidence — 0036–0040](validation_framework/wave_a/batch_0036_0040/README.md)
 - [Wave 8 evidence — 0041–0045](validation_framework/wave_a/batch_0041_0045/README.md)
+- [Wave 9 evidence — 0046–0050](validation_framework/wave_a/batch_0046_0050/README.md)
 - [Component Card schema](COMPONENT_CARD_SCHEMA.md)
 - [Evidence policy](validation_framework/docs/EVIDENCE_POLICY.md)
 - [Related Edge AI Module Catalog](https://github.com/Statera-Guild/edge-device-catalog)
 
-## Product index (45 records; Wave 1–8)
+## Product index (50 records; Wave 1–9)
 
 | Component ID | Manufacturer | Product / family | Public status | Component Card |
 |---|---|---|---|---|
@@ -67,6 +69,11 @@ Public manufacturer-evidence catalog of **complete edge GPU computer systems** f
 | `CMP-EGC-0043` | ADLINK | DLAP-301-Nano | listed | [View](component_cards/CMP-EGC-0043.md) |
 | `CMP-EGC-0044` | ADLINK | DLAP-211-JNX | listed | [View](component_cards/CMP-EGC-0044.md) |
 | `CMP-EGC-0045` | ADLINK | DLAP-301-JNX | listed | [View](component_cards/CMP-EGC-0045.md) |
+| `CMP-EGC-0046` | Neousys Technology | NRU-220S | listed | [View](component_cards/CMP-EGC-0046.md) |
+| `CMP-EGC-0047` | Neousys Technology | NRU-222S | listed | [View](component_cards/CMP-EGC-0047.md) |
+| `CMP-EGC-0048` | Neousys Technology | NRU-240S-AWP | listed | [View](component_cards/CMP-EGC-0048.md) |
+| `CMP-EGC-0049` | Neousys Technology | NRU-171V-PPC | listed | [View](component_cards/CMP-EGC-0049.md) |
+| `CMP-EGC-0050` | Neousys Technology | NRU-172S-PPC | listed | [View](component_cards/CMP-EGC-0050.md) |
 
 ## Scope and status
 
@@ -79,6 +86,8 @@ Manufacturer product catalog indicates a discontinuation notice for BOXER-8645AI
 Graph edges such as `USES_MODULE` and `SUPPORTS_ALGORITHM` are provisional until reconciliation with PAI-SG S03. Confidential BOM, restricted supplier terms, private architecture and tests remain in private Core SSOT.
 
 Wave 8 includes a preliminary DLAP-212 listing and legacy Jetson Nano/Xavier NX systems; confirm current lifecycle and exact SKU before procurement.
+
+Wave 9 adds Neousys AGX Orin NVR/PoE systems and Orin NX/Nano panel PCs. Panel PCs are integrated systems; lifecycle and exact SKU require review.
 
 ## Validation and contribution
 

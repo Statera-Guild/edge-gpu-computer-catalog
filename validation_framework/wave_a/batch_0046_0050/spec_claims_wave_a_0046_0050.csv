@@ -1,0 +1,11 @@
+claim_id,component_id,claim_field,claim_value,source_id,verification_status,scope,review_note
+CLM-EGC-0046-01,CMP-EGC-0046,product_identity,NRU-220S,SRC-EGC-0046-01,manufacturer_claim,family,family identity; SKU pending
+CLM-EGC-0046-02,CMP-EGC-0046,compute_platform,NVIDIA Jetson AGX Orin,SRC-EGC-0046-01,manufacturer_claim,family,manufacturer platform class; module variant pending
+CLM-EGC-0047-01,CMP-EGC-0047,product_identity,NRU-222S,SRC-EGC-0047-01,manufacturer_claim,family,family identity; SKU pending
+CLM-EGC-0047-02,CMP-EGC-0047,compute_platform,NVIDIA Jetson AGX Orin,SRC-EGC-0047-01,manufacturer_claim,family,manufacturer platform class; module variant pending
+CLM-EGC-0048-01,CMP-EGC-0048,product_identity,NRU-240S-AWP,SRC-EGC-0048-01,manufacturer_claim,family,family identity; SKU pending
+CLM-EGC-0048-02,CMP-EGC-0048,compute_platform,NVIDIA Jetson AGX Orin,SRC-EGC-0048-01,manufacturer_claim,family,manufacturer platform class; module variant pending
+CLM-EGC-0049-01,CMP-EGC-0049,product_identity,NRU-171V-PPC,SRC-EGC-0049-01,manufacturer_claim,family,family identity; SKU pending
+CLM-EGC-0049-02,CMP-EGC-0049,compute_platform,NVIDIA Jetson Orin NX / Orin Nano,SRC-EGC-0049-01,manufacturer_claim,family,manufacturer platform class; module variant pending
+CLM-EGC-0050-01,CMP-EGC-0050,product_identity,NRU-172S-PPC,SRC-EGC-0050-01,manufacturer_claim,family,family identity; SKU pending
+CLM-EGC-0050-02,CMP-EGC-0050,compute_platform,NVIDIA Jetson Orin NX / Orin Nano,SRC-EGC-0050-01,manufacturer_claim,family,manufacturer platform class; module variant pending
