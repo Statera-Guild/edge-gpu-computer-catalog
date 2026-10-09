@@ -1,0 +1,51 @@
+component_id,algorithm,compatibility_status,test_status,evidence_note,next_action
+CMP-EGC-0051,YOLO object detection,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0051,DETR object detection,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0051,Semantic segmentation,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0051,Instance segmentation,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0051,Multi-object tracking,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0051,Video Transformer,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0051,Visual SLAM,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0051,Vision-language model,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0051,World model inference,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0051,ROS 2 perception integration,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0052,YOLO object detection,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0052,DETR object detection,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0052,Semantic segmentation,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0052,Instance segmentation,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0052,Multi-object tracking,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0052,Video Transformer,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0052,Visual SLAM,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0052,Vision-language model,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0052,World model inference,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0052,ROS 2 perception integration,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0053,YOLO object detection,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0053,DETR object detection,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0053,Semantic segmentation,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0053,Instance segmentation,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0053,Multi-object tracking,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0053,Video Transformer,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0053,Visual SLAM,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0053,Vision-language model,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0053,World model inference,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0053,ROS 2 perception integration,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0054,YOLO object detection,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0054,DETR object detection,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0054,Semantic segmentation,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0054,Instance segmentation,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0054,Multi-object tracking,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0054,Video Transformer,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0054,Visual SLAM,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0054,Vision-language model,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0054,World model inference,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0054,ROS 2 perception integration,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0055,YOLO object detection,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0055,DETR object detection,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0055,Semantic segmentation,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0055,Instance segmentation,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0055,Multi-object tracking,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0055,Video Transformer,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0055,Visual SLAM,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0055,Vision-language model,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0055,World model inference,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation
+CMP-EGC-0055,ROS 2 perception integration,candidate,not_tested,No PAI-SG runtime or benchmark validation,requires software stack and device validation

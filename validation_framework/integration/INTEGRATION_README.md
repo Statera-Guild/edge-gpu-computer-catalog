@@ -1,5 +1,5 @@
-# Integrated master catalog — 50 records
+# Integrated master catalog — 55 records
 
-Current public snapshot: `master_catalog_0001_0050.csv` (Waves 1–9, 50 unique Component IDs). Historical snapshots are retained.
+Current public snapshot: `master_catalog_0001_0055.csv` (Waves 1–10; 55 unique Component IDs). Earlier snapshots remain unchanged.
 
-Records are manufacturer-sourced `listed` entries, not certifications, performance benchmarks or procurement approvals. Identity and evidence reviews remain pending. Wave 9 includes integrated Neousys panel PCs and AI NVR systems. Algorithm candidates are not tested. Public provenance is in `validation_framework/wave_a/`; confidential engineering and commercial data remain in private Core SSOT.
+Entries are manufacturer-sourced `listed` records with pending identity/evidence review, not certifications or benchmarks. Wave 10 includes legacy and EOL devices; confirm exact SKU and lifecycle. Public evidence is under `validation_framework/wave_a/`, while private engineering and commercial information remains in Core SSOT.

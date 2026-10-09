@@ -1,0 +1,11 @@
+claim_id,component_id,claim_field,claim_value,source_id,verification_status,scope,review_note
+CLM-EGC-0051-01,CMP-EGC-0051,product_identity,BOXER-8621AI,SRC-EGC-0051-01,manufacturer_claim,family,model identity
+CLM-EGC-0051-02,CMP-EGC-0051,compute_platform,NVIDIA Jetson Orin Nano,SRC-EGC-0051-01,manufacturer_claim,family,exact SKU/module variant to verify
+CLM-EGC-0052-01,CMP-EGC-0052,product_identity,BOXER-8224AI,SRC-EGC-0052-01,manufacturer_claim,family,model identity
+CLM-EGC-0052-02,CMP-EGC-0052,compute_platform,NVIDIA Jetson Nano,SRC-EGC-0052-01,manufacturer_claim,family,exact SKU/module variant to verify
+CLM-EGC-0053-01,CMP-EGC-0053,product_identity,BOXER-8253AI,SRC-EGC-0053-01,manufacturer_claim,family,model identity
+CLM-EGC-0053-02,CMP-EGC-0053,compute_platform,NVIDIA Jetson Xavier NX,SRC-EGC-0053-01,manufacturer_claim,family,exact SKU/module variant to verify
+CLM-EGC-0054-01,CMP-EGC-0054,product_identity,BOXER-8250AI,SRC-EGC-0054-01,manufacturer_claim,family,model identity
+CLM-EGC-0054-02,CMP-EGC-0054,compute_platform,NVIDIA Jetson Xavier NX,SRC-EGC-0054-01,manufacturer_claim,family,exact SKU/module variant to verify
+CLM-EGC-0055-01,CMP-EGC-0055,product_identity,BOXER-8230AI,SRC-EGC-0055-01,manufacturer_claim,family,model identity
+CLM-EGC-0055-02,CMP-EGC-0055,compute_platform,NVIDIA Jetson TX2 NX,SRC-EGC-0055-01,manufacturer_claim,family,exact SKU/module variant to verify

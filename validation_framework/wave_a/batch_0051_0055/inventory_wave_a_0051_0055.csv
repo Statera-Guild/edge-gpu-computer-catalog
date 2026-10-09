@@ -1,0 +1,6 @@
+component_id,manufacturer,product_name,status,record_scope,card_path,platform,source_type,official_source
+CMP-EGC-0051,AAEON,BOXER-8621AI,listed,family,component_cards/CMP-EGC-0051.md,NVIDIA Jetson Orin Nano,manufacturer_product_page,https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8621ai
+CMP-EGC-0052,AAEON,BOXER-8224AI,listed,family,component_cards/CMP-EGC-0052.md,NVIDIA Jetson Nano,manufacturer_product_page,https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8224ai
+CMP-EGC-0053,AAEON,BOXER-8253AI,listed,family,component_cards/CMP-EGC-0053.md,NVIDIA Jetson Xavier NX,manufacturer_datasheet,https://data-us.aaeon.com/DOWNLOAD/2014%20datasheet/Systems/BOXER-8253AI.pdf
+CMP-EGC-0054,AAEON,BOXER-8250AI,listed,family,component_cards/CMP-EGC-0054.md,NVIDIA Jetson Xavier NX,manufacturer_product_page,https://www.aaeon.com/en/product/detail/ai-edge-solutions-nvidia-jetson-xavier-nx-boxer-8250ai/specification
+CMP-EGC-0055,AAEON,BOXER-8230AI,listed,family,component_cards/CMP-EGC-0055.md,NVIDIA Jetson TX2 NX,manufacturer_product_page,https://www.aaeon.com/en/product/detail/ai-edge-jetson-tx2-nx-boxer-8230ai
